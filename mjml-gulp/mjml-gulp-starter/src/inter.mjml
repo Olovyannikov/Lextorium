@@ -1,0 +1,100 @@
+<mjml>
+    <mj-head>
+    <mj-attributes>
+      <mj-class name="subheading" padding-left="25px" font-family="Book Antiqua" font-size="36px" line-height="36px" padding-bottom="0" padding-top="50px" />
+      <mj-class name="subheading__column" padding-bottom="0px"  width="100%"/>
+      <mj-class name="subheading__column--main" padding-left="45px" padding-bottom="0px" padding-top="35px"  width="100%"/>
+      <mj-class name="column-main"/>
+      <mj-class name="meeting-date" padding-bottom="20px" font-family="Helvetica" font-size="21px" line-height="24px" />
+      <mj-class name="description" padding-bottom="25px" font-family="Arial" font-size="16px" line-height="24px" />
+      <mj-class name="green-button" background-color="transparent" font-family="Book Antiqua" border="1px solid #93bf3d" color="#93bf3d" font-size="20px" line-height="30px" align="left" padding="20px 0"/>
+      <mj-class name="green-button__modified"  background-color="none" font-family="Arial"  color="#93bf3d" font-size="16px" line-height="30px" align="left" text-decoration="underline" inner-padding="0" padding="20px 0"/>
+      <mj-class name="practic-course__body"  background-color="#f7f7f7"/>
+      <mj-class name="main-text" font-family="Arial" font-size="16px" line-height="24px" padding-bottom="40px"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    
+    <mj-section mj-class="practic-course__body">
+        <mj-column mj-class="subheading__column">
+          <mj-text mj-class="subheading">
+            <h2 style="margin: 0; font-size: 36px;">1Большие курсы <br/>
+              для практиков 
+            </h2>
+          </mj-text>
+      </mj-column>
+      
+      <mj-column mj-class="subheading__column--main">
+                <mj-text mj-class="meeting-date">
+            Большой курс по банкротству
+          </mj-text>
+        <mj-text  mj-class="main-text">Путеводитель и пошаговая инструкция для юристов, которые хотят быстро и эффективно решать сложные банкротские дела.</mj-text>
+        
+      </mj-column>
+      
+      <mj-column width="219px" mj-class="column-main">
+        
+          <mj-image padding-left="45px" src="https://funkyimg.com/i/33xiX.png" width="176px"></mj-image>
+      </mj-column>
+            <mj-column width="381px" mj-class="column-main">
+                <mj-spacer height="10px"></mj-spacer>
+              <mj-column padding-left="10px" width="100%" border-left="3px solid #ffd44c">
+          <mj-text padding-left="16px" >Ведущий семинара: <a href="#" style="color: #9bc350">Андрей Егоров</a>
+            </mj-text>
+              <mj-spacer height="30px"></mj-spacer>
+              <mj-text  padding-left="16px" padding-bottom="0px">
+                      Старт программы: 6 марта <br/>
+                        Формат участия: онлайн + запись
+                                + материалы
+              </mj-text>
+                </mj-column>
+                      <mj-button align="center" width="270px" padding="0" padding-top="20px" height="60px" background-color="#93bf3d" font-size="20px" font-family="Book Antiqua" href="https://webinar50.lextorium.com/">Программа курса</mj-button>
+              
+      </mj-column>
+      
+    </mj-section>
+    <mj-section padding="2px">
+    </mj-section>
+    
+    <mj-section mj-class="practic-course__body" padding-left="10px">
+
+        
+            <mj-column mj-class="subheading__column--main">
+                <mj-text mj-class="meeting-date">
+            Убытки, потери, вред. Как просчитать
+и возместить.
+          </mj-text>
+        <mj-text  mj-class="main-text">Путеводитель и пошаговая инструкция для юристов, которые хотят быстро и эффективно решать сложные банкротские дела.</mj-text>
+      </mj-column>
+            <mj-column width="510px" border-left="3px solid #ffd44c">
+        <mj-text padding-left="15px" line-height="30px" align="left" font-size="16px">Старт программы: 6 марта
+</mj-text>
+        <mj-text padding-left="15px">Формат участия: онлайн + запись + материалы
+</mj-text>
+        <mj-text padding-left="15px" line-height="30px" align="left" font-size="16px">Ведущий семинара: <a href="#" style="color: #9bc350">Андрей Егоров</a>, <a href="#" style="color: #9bc350">Олеся Петроль</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+     <mj-section padding="0" padding-left="45px" padding-right="45px" mj-class="practic-course__body" >
+
+      <mj-column border="dotted 1px #aacb70" border-right="0"  width="10%">
+        <mj-social align="left" icon-size="33px">
+          <mj-social-element src="https://funkyimg.com/i/33vgV.png" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column border="dotted 1px #aacb70" border-left="0" padding-left="65px" padding-bottom="10px"          padding-right="0px" padding-top="15px" width="70%">
+        <mj-text color="#6d6d6d" align="left" font-family="Arial" font-size="14px" padding-left="20px" line-height="18px">
+          Получить запись курса за 6 900 руб.* <br/> вместо 
+          <span style="text-decoration: line-through">12 000 руб.</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-social padding="0" padding-left="0px" icon-size="64px">
+          <mj-social-element padding="0" src="https://funkyimg.com/i/33vhP.png" href="#"></mj-social-element>
+        </mj-social>
+</mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>

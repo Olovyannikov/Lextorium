@@ -1,0 +1,166 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="container" padding-left="20px" padding-right="20px"></mj-class>
+      <mj-class name="preheader" color="#777777" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 20px" text-decoration="underline"></mj-class>
+      <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding="20px 25px"></mj-class>
+      <mj-class name="footer-text" align="center" color="#ffffff" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="0 25px"></mj-class>
+      <mj-navbar-link padding="0 15px" font-weight="bold" font-size="14px"></mj-navbar-link>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" mj-class="preheader"><a href="https://mjml.io">Открыть в браузере</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://funkyimg.com/i/34bDj.png" alt="Lextorium logo" align="center" width="214px" padding="10px 0 0 0"></mj-image>
+        <mj-text>
+        <p style="font-family: Book Antiqua, Arial; font-size: 16px; line-height: 46px; text-align: center; font-weight: 600; margin-top: 0">школа для юристов-практиков</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding="20px">
+      <mj-column>
+        <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#444">
+          <mj-navbar-link text-transform color="#ffdd4c" href="https://mjml.io">О портале</mj-navbar-link>
+          <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Новости</mj-navbar-link>
+          <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Курсы</mj-navbar-link>
+          <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Трансляции</mj-navbar-link>
+          <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">+7(495)123-12-12</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://funkyimg.com/i/34bDk.jpg" background-repeat="no-repeat" background-size="cover" padding="20px 0">
+      <mj-column width="100%">
+        <mj-text align="left" color="#ffffff" line-height="32px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="21px" padding="106px 20px 0 20px">Путеводитель</mj-text>
+      </mj-column>
+      <mj-column width="100%" vertical-align="bottom">
+        <mj-text align="left" color="#ffffff" line-height="46px" font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="46px" font-weight="600" padding="20px 20px 20px 20px">Большой курс <br /> по банкротству</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="container" padding-top="20px" padding-bottom="20px">
+      <mj-column width="100%">
+        <mj-text>
+          <p style="font-size: 18px; font-family: Helvetica, Arial">Ксения, здравствуйте!</p>
+          <p style="font-size: 16px; line-height: 24px; font-family: Arial;"> Колония-поселение № 22 ФСИН по Хабаровскому краю провела электронный аукцион на закупку картошки на посадку. Не много, не мало, а 100 тонн. Этот конкурс выиграла некая организация по цене 1 542 500 руб. Итого чуть более 15 р. за кг. Договор заключён 29 марта 2016 г. На поставку 40 дней. </p>
+       </mj-text>
+    <mj-button background-color="#8bb420" href="https://mjml.io" font-family="Book Antiqua,Arial"  font-weight="bold" font-size="20px">Подробнее о курсе</mj-button>
+      </mj-column>
+    </mj-section>
+    
+        <mj-section mj-class="container" padding-top="20px" padding-bottom="20px">
+      <mj-column width="100%">
+        <mj-text>
+          
+          <p style="font-size: 36px; font-weight: 600; font-family: Book Antiqua, Arial">Фишки курса</p>
+          <mj-column width="50%">
+          <ul style="list-style: none; padding: 0;">
+         <li style="display: inline-block; padding-right:50px;"> <p style="line-height: 18px; margin: 10px 0;font-size:16px; color:#000; font-family:Arial,Helvetica,sans-serif; color:#354552; border-left: 2px solid #ffd44c;padding-left: 20px;">Доступ предоставляется <br/>
+навсегда</p></li>
+           <li style="display: inline-block; padding-right: 20px;"><p style="line-height: 18px; margin: 10px 0;font-size:16px; color:#000; font-family:Arial,Helvetica,sans-serif; color:#354552; border-left: 2px solid #ffd44c;padding:8px 0; padding-left: 20px;">Видео формат на 11 часов
+</p></li> </ul>
+          </mj-column>
+          <mj-column width="50%">
+          <ul style="list-style: none; padding: 0;">
+         <li style="display: inline-block; padding-right: 20px;"> <p style="line-height: 18px; margin: 10px 0;font-size:16px; color:#000; font-family:Arial,Helvetica,sans-serif; color:#354552; border-left: 2px solid #ffd44c;padding-left: 20px;">Записи и материалы по теме <br/>
+остаются у вас
+</p></li>
+            <li style="display: inline-block"> <p style="line-height: 18px; margin: 10px 0;font-size:16px; color:#000; font-family:Arial,Helvetica,sans-serif; color:#354552; border-left: 2px solid #ffd44c; padding-left: 20px;">Ответы на вопросы <br/> 
+    <small>Отвечают авторы курса</small></p>
+           </li></ul></mj-column>
+        </mj-text>
+          </mj-column>
+    </mj-section>
+          
+     <mj-section mj-class="container">
+      <mj-column width="100%">
+        <mj-text>
+         <p style="font-size: 36px; font-weight: 600; font-family: Book Antiqua, Arial">Онлайн-встречи</p>      
+       </mj-text>
+          </mj-column>
+       </mj-section>
+    <mj-section mj-class="container">
+       <mj-column width="50%">
+        <mj-text>
+         <p style="font-family: Helvetica, Georgia; font-size: 21px;">23 января</p>
+          <p style="font-size: 16px;">Оспаривание сделок при банкростве: 
+преимущественное удовлетворение
+кредитора.
+</p>
+         </mj-text>
+         <mj-button href="#" align="left" font-family="Book Antiqua, Arial" font-size="20px" background-color="transparent" color="#93bf3d" border="1px solid #93bf3d">Оставить заявку</mj-button>
+       </mj-column>
+       <mj-column width="50%">        <mj-text>
+         <p style="font-family: Helvetica, Georgia; font-size: 21px;">23 января</p>
+          <p style="font-size: 16px;">Оспаривание сделок при банкростве: 
+преимущественное удовлетворение
+кредитора.
+</p>
+         </mj-text>
+         <mj-button href="#" align="left" font-family="Book Antiqua, Arial" font-size="20px" background-color="transparent" color="#93bf3d" border="1px solid #93bf3d">Оставить заявку</mj-button>
+    <mj-spacer></mj-spacer></mj-column>       
+    </mj-section>
+    <mj-section mj-class="container">
+                  <mj-column width="50%">
+        <mj-text>
+          <p style="font-family: Helvetica, Georgia; font-size: 21px;">23 января</p>
+              <p style="font-size: 16px;">Оспаривание сделок при банкростве: 
+преимущественное удовлетворение
+кредитора.
+</p>
+          </mj-text>
+                <mj-button href="#" align="left" font-family="Arial" font-size="16px" background-color="transparent" color="#93bf3d" inner-padding="0" border-bottom="1px solid #93bf3d">Оставить заявку</mj-button>
+      </mj-column>
+              <mj-column width="50%">
+        <mj-text>
+          <p style="font-family: Helvetica, Georgia; font-size: 21px;">23 января</p>
+              <p style="font-size: 16px;">Оспаривание сделок при банкростве: 
+преимущественное удовлетворение
+кредитора.
+</p>
+          </mj-text>
+                <mj-button href="#" align="left" font-family="Arial" font-size="16px" background-color="transparent" color="#93bf3d" inner-padding="0" border-bottom="1px solid #93bf3d">Оставить заявку</mj-button>
+      
+    <mj-spacer height="50px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="40px" background-color="#F7f7f7" mj-class="container">
+    <mj-column>
+     <mj-text>
+         <p style="font-size: 36px; font-weight: 600; font-family: Book Antiqua, Arial">Большие курсы <br/> для практиков</p>      
+       </mj-text>
+             <mj-text>
+      <p style="font-size:21px; font-family: Helvetica, Arial; line-height: 24px;">
+        Большой курс по банкротству
+      </p>
+      </mj-text>
+      <mj-text>
+      <p style="font-size: 16px; line-height: 24px; font-family: Arial;">Путеводитель и пошаговая инструкция для юристов, которые хотят быстро и эффективно решать сложные банкротские дела.</p>
+      </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-section background-color="#F7f7f7" padding-top="0" mj-class="container">
+    <mj-column margin="0" width="40%">
+        <mj-image  padding-left="0"  width="176px" align="left" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://funkyimg.com/i/34cJ8.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text align="left" padding-left="0" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px">
+        <div style="border-left:3px solid #ffdd4c; margin-bottom: 25px">
+          <p style="padding-left: 20px;margin: 0px 0 10px 0; color:#151e23; font-size:14px; font-family:Arial,Helvetica,Georgia,sans-serif;">Ведущий семинара: <a style="color: #93bf3d;" href="#">Андрей Егоров</a></p>
+          <p style="padding-left: 20px;line-height: 16px; margin: 20px 0 0 0px;font-size:14px; color:#151e23; font-family:Arial,Helvetica,Georgia,sans-serif; color:#354552">Старт программы: 6 марта</p>
+          <p style="padding-left: 20px;margin: 0; font-size: 14px; font-family: Arial, Helvetica, Georgia, sans-serif;">Формат участия: онлайн + запись + материалы</p>
+        </div>
+         </span>
+        </mj-text>
+        <mj-button href="#" font-family="Book Antiqua, Arial" font-size="20px" inner-padding="10px 0px" background-color="#93bf3d" width="100%">Программа курса</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
