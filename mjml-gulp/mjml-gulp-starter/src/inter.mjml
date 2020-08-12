@@ -1,7 +1,9 @@
 <mjml>
     <mj-head>
     <mj-attributes>
-      <mj-class name="subheading" padding-left="25px" font-family="Book Antiqua" font-size="36px" line-height="36px" padding-bottom="0" padding-top="50px" />
+      <mj-class name="subheading" padding-left="25px" font-family="Book Antiqua" font-size="36px"
+                line-height="36px"
+                padding-bottom="0" padding-top="50px" />
       <mj-class name="subheading__column" padding-bottom="0px"  width="100%"/>
       <mj-class name="subheading__column--main" padding-left="45px" padding-bottom="0px" padding-top="35px"  width="100%"/>
       <mj-class name="column-main"/>
@@ -18,7 +20,7 @@
     <mj-section mj-class="practic-course__body">
         <mj-column mj-class="subheading__column">
           <mj-text mj-class="subheading">
-            <h2 style="margin: 0; font-size: 36px;">1Большие курсы <br/>
+            <h2 style="margin: 0; font-size: 36px;">Большие курсы <br/>
               для практиков 
             </h2>
           </mj-text>
@@ -86,7 +88,7 @@
       <mj-column border="dotted 1px #aacb70" border-left="0" padding-left="65px" padding-bottom="10px"          padding-right="0px" padding-top="15px" width="70%">
         <mj-text color="#6d6d6d" align="left" font-family="Arial" font-size="14px" padding-left="20px" line-height="18px">
           Получить запись курса за 6 900 руб.* <br/> вместо 
-          <span style="text-decoration: line-through">12 000 руб.</span>
+          <span style="text-decoration: line-through; display: inline-block;height: 23px;">12 000 руб.</span>
         </mj-text>
       </mj-column>
       <mj-column width="20%">
