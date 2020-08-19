@@ -40,15 +40,15 @@
         </mj-section>
         <mj-section background-color="#000000" padding="20px">
             <mj-column>
-                <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#444">
+                <mj-navbar base-url="https://lextorium.com/" hamburger="hamburger" ico-color="#444">
                     <mj-navbar-link text-transform color="#ffdd4c" href="https://lextorium.com/about.html">О портале</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff" href="https://www.facebook.com/lextorium.ru/">Новости</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">Курсы</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff"
-                                    href="https://mjml.io" padding="0"><span role="link" href="#" class="hide"
-                                                                             style="border-left: 2px solid #555555; padding: 12px 20px; padding-right: 0">
+                                    href="tel:+78005513206" padding="0"><span role="link" href="tel:+78005513206" class="hide"
+                                                                             style="border-left: 2px solid #555555; padding: 12px 0 12px 20px;">
               <img style="vertical-align: middle; padding-right: 10px;" src="https://funkyimg.com/i/2L53S.png"
-                   alt="">8(800)
+                   alt="tel:+78005513206">8(800)
               551-32-06</span></mj-navbar-link>
                 </mj-navbar>
                 <mj-text mj-class="hidelarge">
@@ -101,8 +101,8 @@
                     </p>
                     <p style="line-height: 24px;  margin: 10px 0;font-size:15px;
                     font-family:Arial,Helvetica,sans-serif;">Даже если Вы хорошо знаете ответ, смотрите  <a
-                            href="https://www.youtube.com/watch?v=Jx3r9W9bE1E&feature=youtu.be" style="color: #93bf3d">видео
-                    </a>, в
+                            href="https://www.youtube.com/watch?v=Jx3r9W9bE1E&feature=youtu.be"
+                            style="color: #93bf3d">видео</a>, в
                         котором <br/>
                         А. В.
                         Егоров укажет на  один
