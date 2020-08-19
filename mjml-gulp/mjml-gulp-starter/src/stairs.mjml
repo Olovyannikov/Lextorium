@@ -41,16 +41,15 @@
         <mj-section background-color="#000000" padding="20px">
             <mj-column>
                 <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#444">
-                    <mj-navbar-link text-transform color="#ffdd4c" href="https://mjml.io">О портале</mj-navbar-link>
-                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Новости</mj-navbar-link>
-                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Курсы</mj-navbar-link>
-                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Трансляции</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffdd4c" href="https://lextorium.com/about.html">О портале</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://www.facebook.com/lextorium.ru/">Новости</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">Курсы</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff"
                                     href="https://mjml.io" padding="0"><span role="link" href="#" class="hide"
                                                                              style="border-left: 2px solid #555555; padding: 12px 20px; padding-right: 0">
               <img style="vertical-align: middle; padding-right: 10px;" src="https://funkyimg.com/i/2L53S.png"
-                   alt="">+7(495)
-              123-12-12</span></mj-navbar-link>
+                   alt="">8(800)
+              551-32-06</span></mj-navbar-link>
                 </mj-navbar>
                 <mj-text mj-class="hidelarge">
                   <span class="hidelarge"
@@ -109,19 +108,55 @@
                 </mj-text>
             </mj-column>
         </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 18px; padding-bottom: 10px;"><b>Хотите знать больше?</b></p>
+                    <p style="font-size: 16px;">
+                    Совсем скоро стартует новый курс:
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" border-left="2px solid #ffd44c">
+                <mj-text>
+                    <p style="margin: 0; padding-bottom: 10px; padding-left: 15px;"><a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold;"
+                            href="https://lextorium.com/courses/vebinary/dogovor-stroitelnogo-podryada-problemy-teorii-i-praktiki.html">
+                        Договор строительного подряда: проблемы теории и практики
+                    </a></p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;">
+                        <b>Спикеры: </b> Андрей Егоров, Таир Сулейманов, Родион Филиппов, Владимир Липавский
+                    </p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Начало: </b>
+                        26 сентября
+                    </p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Формат
+                        участия: </b>онлайн + запись курса</p>
+                    <p style="margin: 0;  padding-left: 15px;font-size: 16px;">После окончания курса возможно получить удостоверение о повышении квалификации</p>
+                </mj-text>
+             </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-button background-color="#8bb420"
+                       href="https://lextorium.com/courses/vebinary/dogovor-stroitelnogo-podryada-problemy-teorii-i-praktiki.html" font-family="Book Antiqua,Arial" font-weight="bold" font-size="20px">Подробнее о курсе</mj-button>
+
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+
         <mj-section>
-            <mj-column mj-class="container" padding-bottom="20px">
-                <mj-social font-size="15px" icon-size="50px" mode="horizontal">
-                    <mj-social-element src="https://funkyimg.com/i/33vjZ.png" href="https://www.facebook.com/lextorium.ru/">
+            <mj-column mj-class="container">
+                <mj-social font-size="15px" icon-size="50px" mode="horizontal" padding-bottom="10px">
+                    <mj-social-element padding="10px" src="https://funkyimg.com/i/33vjZ.png"
+                                        href="https://www.facebook.com/lextorium.ru/">
 
                     </mj-social-element>
-                    <mj-social-element src="https://funkyimg.com/i/33vk2.png" href="https://vk.com/lextorium">
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vk2.png" href="https://vk.com/lextorium">
 
                     </mj-social-element>
-                    <mj-social-element src="https://funkyimg.com/i/33vkQ.png" href="https://vk.com/lextorium">
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkQ.png" href="https://vk.com/lextorium">
 
                     </mj-social-element>
-                    <mj-social-element src="https://funkyimg.com/i/33vkg.png" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkg.png" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
 
                     </mj-social-element>
                 </mj-social>
