@@ -75,7 +75,7 @@
                 <mj-text>
                     <p style="font-size: 16px; line-height: 24px; font-family: Arial,serif; border: 2px dashed
                     #ffd44c; padding: 20px; padding-right: 0; width: 100%; max-width: 600px;  text-align: center">
-                        “Лифт к успеху не
+                        “<b>Лифт к успеху</b> не
                         работает. Используйте ступеньки”. </p>
                 </mj-text>
                 <mj-text mj-class="container">
@@ -95,13 +95,15 @@
                     </h2>
                     <p style="line-height: 24px;  margin: 10px 0;font-size:15px;
                     font-family:Arial,Helvetica,sans-serif; color:#354552; height: 36px;
-           border-left: 2px solid #ffd44c; padding-left: 20px; padding-bottom: 20px; vertical-align: top">Как быть, если
-                        подрядчик угрожает заказчику, тем что последний “слетит” с гарантии, если устранит недостатки сам или силами третьих лиц?
+           border-left: 2px solid #ffd44c; padding-left: 20px; padding-bottom: 20px; vertical-align: top"><b>Как быть,
+                        если
+                        подрядчик угрожает заказчику</b>, тем что последний “слетит” с гарантии, если устранит недостатки сам или силами третьих лиц?
                     </p>
                     <p style="line-height: 24px;  margin: 10px 0;font-size:15px;
-                    font-family:Arial,Helvetica,sans-serif;">Даже если вы хорошо знаете ответ, смотрите видео <a href="#" style="color: #93bf3d">ССЫЛКА
+                    font-family:Arial,Helvetica,sans-serif;">Даже если Вы хорошо знаете ответ, смотрите  <a
+                            href="https://www.youtube.com/watch?v=Jx3r9W9bE1E&feature=youtu.be" style="color: #93bf3d">видео
                     </a>, в
-                        котором
+                        котором <br/>
                         А. В.
                         Егоров укажет на  один
                         неочевидный ход!</p>
