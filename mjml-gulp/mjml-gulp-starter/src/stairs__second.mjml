@@ -1,0 +1,138 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all padding="0px"></mj-all>
+            <mj-class name="container" width="560px" padding-left="20px" padding-right="20px"></mj-class>
+            <mj-class name="preheader" color="#777777" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 20px" text-decoration="underline"></mj-class>
+            <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding="20px 25px"></mj-class>
+            <mj-class name="footer-text" align="center" color="#ffffff" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="0 25px"></mj-class>
+            <mj-navbar-link padding="0 15px" font-weight="bold" font-size="14px"></mj-navbar-link>
+        </mj-attributes>
+        <mj-style>
+            @media (max-width: 520px) {
+            .hide {display: none}
+            .hidelarge { display: block; }
+            }
+            @media (min-width: 500px) {
+            .hidelarge {
+            display: none;
+            }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-section padding-bottom="20px" padding-top="20px">
+            <mj-group>
+                <mj-column>
+                    <mj-text align="center" mj-class="preheader"><a href="https://mjml.io">Открыть в браузере</a></mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section width="600px" background-color="#ffffff">
+            <mj-column width="250px">
+                <mj-image src="https://funkyimg.com/i/34bDj.png" alt="Lextorium logo" align="center" width="214px" padding="10px 0 0 0"></mj-image>
+                <mj-text>
+                    <p style="font-family: Book Antiqua, Arial; font-size: 16px; line-height: 46px; text-align: center; font-weight: 600; margin-top: 0">школа для юристов-практиков</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000" padding="20px">
+            <mj-column>
+                <mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#444">
+                    <mj-navbar-link text-transform color="#ffdd4c" href="https://mjml.io">О портале</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Новости</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Курсы</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://mjml.io">Трансляции</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff"
+                                    href="https://mjml.io" padding="0"><span role="link" href="#" class="hide"
+                                                                             style="border-left: 2px solid #555555; padding: 12px 20px; padding-right: 0">
+              <img style="vertical-align: middle; padding-right: 10px" src="https://funkyimg.com/i/2L53S.png"
+                   alt="">+7(495)
+              123-12-12</span></mj-navbar-link>
+                </mj-navbar>
+                <mj-text>
+                  <span class="hidelarge"
+                        style="text-align: center; color: white; width: 100%; font-size: 18px; margin: 10px auto 0;">+7(495)
+              123-12-12</span>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section width="600px" background-url="img/stairs.jpg" background-repeat="no-repeat"
+                    background-size="cover" padding="20px 0">
+            <mj-column width="100%">
+                <mj-text align="left" color="#ffffff" line-height="32px"
+                         font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="21px" padding="12px 20px 0 20px"></mj-text>
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="46px" font-weight="600" padding="20px 20px 20px 20px">Если подрядчик ни себе, ни людям</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial,serif; border: 2px dashed
+                    #ffd44c; padding: 20px; padding-right: 0; width: 100%; max-width: 600px;  text-align: center">
+                        “Лифт к успеху не
+                        работает. Используйте ступеньки”. </p>
+                </mj-text>
+                <mj-text mj-class="container">
+                    <p style="font-size: 16px; line-height: 32px; font-family: Arial,serif;">
+                        Эту фразу приписывают американцу <b>Джо Жирарду</b>, признанному Книгой рекордов Гиннесса самым
+                        успешным торговцем.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-top="0" padding-bottom="20px">
+            <mj-column width="100%">
+                <mj-text>
+                    <h2 style="font-size: 18px; line-height: 32px; font-family: Arial,serif; font-weight:bold;">
+                        Для тех, кто взбирается по лестнице строительного подряда и желает достичь небывалых высот - очередная ступенька:
+                    </h2>
+                    <p style="line-height: 24px;  margin: 10px 0;font-size:15px;
+                    font-family:Arial,Helvetica,sans-serif; color:#354552; height: 36px;
+           border-left: 2px solid #ffd44c; padding-left: 20px; padding-bottom: 20px; vertical-align: top">Как быть, если
+                        подрядчик угрожает заказчику, тем что последний “слетит” с гарантии, если устранит недостатки сам или силами третьих лиц?
+                    </p>
+                    <p style="line-height: 24px;  margin: 10px 0;font-size:15px;
+                    font-family:Arial,Helvetica,sans-serif;">Даже если вы хорошо знаете ответ, смотрите видео <a href="#" style="color: #93bf3d">ССЫЛКА
+                    </a>, в
+                        котором
+                        А. В.
+                        Егоров укажет на  один
+                        неочевидный ход!</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column mj-class="container" padding-bottom="20px">
+                <mj-social font-size="15px" icon-size="50px" mode="horizontal">
+                    <mj-social-element src="https://funkyimg.com/i/33vjZ.png" href="https://www.facebook.com/lextorium.ru/">
+
+                    </mj-social-element>
+                    <mj-social-element src="https://funkyimg.com/i/33vk2.png" href="https://vk.com/lextorium">
+
+                    </mj-social-element>
+                    <mj-social-element src="https://funkyimg.com/i/33vkQ.png" href="https://vk.com/lextorium">
+
+                    </mj-social-element>
+                    <mj-social-element src="https://funkyimg.com/i/33vkg.png" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
+
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000">
+            <mj-column>
+                <mj-text color="#fff" padding="5px 20px">
+                    Вы получили это письмо, так как оставили свой электронный адрес на сайте <a style="color: #d5b13f" href="#">Lextorium.com</a>. И подтвердили согласие на получение емейл-рассылки. <a style="color: #d5b13f" href="#">Отпишитесь</a>, если не хотите
+                    получать важные новости и предложения.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
