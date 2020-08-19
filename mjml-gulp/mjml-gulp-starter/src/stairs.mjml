@@ -42,7 +42,8 @@
             <mj-column>
                 <mj-navbar base-url="https://lextorium.com/" hamburger="hamburger" ico-color="#444">
                     <mj-navbar-link text-transform color="#ffdd4c" href="https://lextorium.com/about.html">О портале</mj-navbar-link>
-                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/news.html">Новости</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/news/">Новости
+                    </mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">Курсы</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff"
                                     href="tel:+78005513206" padding="0"><span role="link" href="tel:+78005513206" class="hide"
