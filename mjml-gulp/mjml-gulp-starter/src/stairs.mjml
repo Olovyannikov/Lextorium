@@ -40,23 +40,19 @@
         </mj-section>
         <mj-section background-color="#000000" padding="20px">
             <mj-column>
-                <mj-navbar base-url="https://lextorium.com/" hamburger="hamburger" ico-color="#444">
+                <mj-navbar base-url="https://lextorium.com/" ico-color="#444">
                     <mj-navbar-link text-transform color="#ffdd4c" href="https://lextorium.com/about.html">О портале</mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/news/">Новости
                     </mj-navbar-link>
-                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">Курсы</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">
+                        <span style="border-right: 2px solid #555555; padding: 12px 20px 12px 0;">Курсы</span></mj-navbar-link>
                     <mj-navbar-link text-transform color="#ffffff"
-                                    href="tel:+78005513206" padding="0"><span role="link" href="tel:+78005513206" class="hide"
-                                                                             style="border-left: 2px solid #555555; padding: 12px 0 12px 20px;">
+                                    href="tel:+78005513206" padding="0"><span role="link" href="tel:+78005513206"
+                    >
               <img style="vertical-align: middle; padding-right: 10px;" src="https://funkyimg.com/i/2L53S.png"
                    alt="tel:+78005513206">8(800)
               551-32-06</span></mj-navbar-link>
                 </mj-navbar>
-                <mj-text mj-class="hidelarge">
-                  <span class="hidelarge"
-                        style="text-align: center; color: white; width: 100%; font-size: 18px; margin: 10px auto 0;">+7(495)
-              123-12-12</span>
-                </mj-text>
             </mj-column>
         </mj-section>
         <mj-section width="600px" background-url="https://funkyimg.com/i/36WKw.jpg" background-repeat="no-repeat"
