@@ -1,0 +1,185 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-all padding="0px"></mj-all>
+            <mj-class name="container" width="560px" padding-left="20px" padding-right="20px"></mj-class>
+            <mj-class name="preheader" color="#777777" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 20px" text-decoration="underline"></mj-class>
+            <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding="20px 25px"></mj-class>
+            <mj-class name="footer-text" align="center" color="#ffffff" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="0 25px"></mj-class>
+            <mj-class name="hidelarge" display="none"
+                      media="(min-width: 540px)"></mj-class>
+            <mj-navbar-link padding="0 15px" font-weight="bold" font-size="14px"></mj-navbar-link>
+        </mj-attributes>
+        <mj-style>
+            @media (max-width: 520px) {
+            .hide {display: none}
+            .hidelarge { display: block; }
+            }
+            @media (min-width: 500px) {
+            .hidelarge {
+            display: none;
+            }
+            }
+        </mj-style>
+
+        <mj-style inline="inline">
+            ul li { padding-bottom: 10px; padding-left: 0; margin: 0; list-style-image: url('https://funkyimg.com/i/33wVV.png'); list-style-position: outside; font-size: 16px; line-height: 24px; vertical-align: top; } a { color: #aacb70; font-size: 16px; } a.white_link
+            { color: #ffffff; text-decoration: none; font-size: 16px; } p { padding-top: 0; font-size: 16px; line-height: 24px; }
+
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-section padding-bottom="20px" padding-top="20px">
+            <mj-group>
+                <mj-column>
+                    <mj-text align="center" mj-class="preheader"><a href="{{_WebLetterUrl}}">Открыть в браузере</a></mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section width="600px" background-color="#ffffff">
+            <mj-column width="250px">
+                <mj-image src="https://funkyimg.com/i/34bDj.png" alt="Lextorium logo" align="center" width="214px" padding="10px 0 0 0"></mj-image>
+                <mj-text>
+                    <p style="font-family: Book Antiqua, Arial; font-size: 16px; line-height: 46px; text-align: center; font-weight: 600; margin-top: 0">школа для юристов-практиков</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000" padding="20px">
+            <mj-column>
+                <mj-navbar base-url="https://lextorium.com/" ico-color="#444">
+                    <mj-navbar-link text-transform color="#ffdd4c" href="https://lextorium.com/about.html">О портале</mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/news/">Новости
+                    </mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff" href="https://lextorium.com/courses/">
+                        <span style="border-right: 2px solid #555555; padding: 12px 20px 12px 0;">Курсы</span></mj-navbar-link>
+                    <mj-navbar-link text-transform color="#ffffff"
+                                    href="tel:+78005513206" padding="0"><span role="link" href="tel:+78005513206"
+                    >
+              <img style="vertical-align: middle; padding-right: 10px;" src="https://funkyimg.com/i/2L53S.png"
+                   alt="tel:+78005513206">8(800)
+              551-32-06</span></mj-navbar-link>
+                </mj-navbar>
+            </mj-column>
+        </mj-section>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/36XXt.jpg" background-repeat="no-repeat"
+                    background-size="cover" padding="20px 0">
+            <mj-column width="100%">
+                <mj-text align="left" color="#ffffff" line-height="32px"
+                         font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="21px" padding="12px 20px 0 20px"></mj-text>
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="46px" font-weight="600" padding="20px 20px 20px 20px">
+                    Квест: застраховать ответственность директора
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text>
+                </mj-text>
+                <mj-text mj-class="container">
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial,sans-serif;">
+                        Вероятно, вы догадались, что речь идет о  корпоративной ответственности директоров юридических лиц. Чаще эта тема рассматривается с ракурса “как взыскать с директора, либо участников ущерб”, но мы сегодня предлагаем исследовать  вопрос страхования ответственности директора. С одной стороны, такой шаг помог бы снизить градус напряженности в данном вопросе, с другой стороны, все не так просто -  сам процесс может стать настоящей головоломкой:
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-top="0" padding-bottom="20px">
+            <mj-column width="100%">
+                <mj-text>
+                    <ul style="font-family: Arial, sans-serif; padding: 0 0 0 20px;">
+                        <li style="padding-left: 10px;">                     какие нормы ГК РФ регулируют данный вид страхования?
+                        </li>
+                        <li style="padding-left: 10px;">                     кто является страхователем по такому договору?
+                        </li>
+                        <li style="padding-left: 10px;">                     может ли одно и то же лицо быть и страхователем, и
+                            выгодоприобретателем - по сути не редки случаи, когда общество страхует само себя?
+                        </li>
+                        <li style="padding-left: 10px;">                    кто оплачивает страховую премию: директор или общество?
+                        </li>
+                        <li style="padding-left: 10px;">                    какие есть исключения из страхового покрытия в
+                            рассматриваемой
+                            ситуации?
+                        </li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%">
+                <mj-button background-color="#8bb420"
+                           href="https://lextorium.com/courses/vebinary/korporativnaya-otvetstvennost-direktorov-i-uchastnikov-yuridicheskih-lits.html" font-family="Book Antiqua,Arial" font-weight="bold" font-size="20px">Начать квест</mj-button>
+
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 18px; padding-bottom: 10px;"><b>Хотите знать больше?</b></p>
+                    <p style="font-size: 16px;">
+                        Совсем скоро стартует новый курс:
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" border-left="2px solid #ffd44c">
+                <mj-text>
+                    <p style="margin: 0; padding-bottom: 10px; padding-left: 15px;"><a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold;"
+                                                                                       href="https://lextorium.com/courses/vebinary/korporativnaya-otvetstvennost-direktorov-i-uchastnikov-yuridicheskih-lits.html">
+                        Корпоративная ответственность директоров и участников юридических лиц
+                    </a></p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;">
+                        <b>Спикеры: </b> Андрей Егоров, Чупрунов Иван</p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Начало: </b>
+                        9 октября
+                    </p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Формат
+                        участия: </b>онлайн + запись курса</p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Стоимость:
+                    </b>от 10 900</p>
+                    <p style="margin: 0;  padding-left: 15px;font-size: 16px;">После окончания курса возможно получить удостоверение о повышении квалификации</p>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-button background-color="#8bb420"
+                       href="https://lextorium.com/courses/vebinary/korporativnaya-otvetstvennost-direktorov-i-uchastnikov-yuridicheskih-lits.html" font-family="Book Antiqua,Arial" font-weight="bold" font-size="20px">Подробнее о курсе</mj-button>
+
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+
+        <mj-section>
+            <mj-column mj-class="container">
+                <mj-social font-size="15px" icon-size="50px" mode="horizontal" padding-bottom="10px">
+                    <mj-social-element padding="10px" src="https://funkyimg.com/i/33vjZ.png"
+                                       href="https://www.facebook.com/lextorium.ru/">
+
+                    </mj-social-element>
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vk2.png" href="https://vk.com/lextorium">
+
+                    </mj-social-element>
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkQ.png" href="https://vk.com/lextorium">
+
+                    </mj-social-element>
+                    <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkg.png" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
+
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000">
+            <mj-column>
+                <mj-text color="#fff" padding="5px">
+                    Вы получили это письмо, так как оставили свой электронный адрес на сайте <a
+                        href="https://lextorium.com"
+                        style="color: #d5b13f" href="#">Lextorium.com</a>. И подтвердили согласие на получение емейл-рассылки. <a href="{{UnsubscribeUrl}}" rel="nofollow noopener noreferrer" style="color: #d5b13f" href="#">Отпишитесь</a>, если не хотите
+                    получать важные новости и предложения.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>

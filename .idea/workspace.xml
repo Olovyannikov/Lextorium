@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be0f3df-b31b-4c0c-8ac2-49afcdd4f1e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/src/stairs.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/src/stairs__second.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/src/directors.mjml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/stairs__second.html" beforeDir="false" afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/stairs__second.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,10 @@
       <option name="presentableId" value="Default" />
       <updated>1597213039791</updated>
       <workItem from="1597213049297" duration="11295000" />
-      <workItem from="1597830075210" duration="5365000" />
+      <workItem from="1597830075210" duration="6580000" />
+      <workItem from="1597845601277" duration="6093000" />
+      <workItem from="1597902640993" duration="1312000" />
+      <workItem from="1597937399138" duration="2334000" />
     </task>
     <servers />
   </component>
