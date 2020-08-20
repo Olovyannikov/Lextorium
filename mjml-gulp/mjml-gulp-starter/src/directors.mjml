@@ -92,7 +92,10 @@
         </mj-section>
         <mj-section mj-class="container" padding-top="20px" padding-left="0">
             <mj-column width="100%">
-                <mj-text>
+                <mj-text padding-left="20px">
+                    <p>
+                    <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
                 </mj-text>
                 <mj-text mj-class="container">
                     <p style="font-size: 16px; line-height: 24px; font-family: Arial,sans-serif;">
