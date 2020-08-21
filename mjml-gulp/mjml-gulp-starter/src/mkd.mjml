@@ -1,0 +1,74 @@
+<mjml>
+    <mj-include path="head.mjml"/>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="header.mjml"/>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/36Z25.jpg" background-repeat="no-repeat"
+                    background-size="cover" padding="40px 0">
+            <mj-column width="100%">
+                <mj-text align="left" color="#ffffff" line-height="32px"
+                         font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="21px" padding="12px 20px 0 20px"></mj-text>
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="46px" font-weight="600" padding="20px 20px 20px 20px">Неравные платежи в МКД. Позиция КС РФ
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p class="paragraph">
+                        Можно ли устанавливать разный размер взносов на содержание ОИ для разных собственников помещений в одном и том же МКД?
+                    </p>
+                    <p class="paragraph">
+                        <a class="link" href="https://lextorium.com/courses/vebinary/zdaniya-pomescheniya-v-nih.html">
+                            Позиция  Конституционного суда РФ на 29.01.2018 г. по этому вопросу.
+                        </a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 18px; padding-bottom: 10px; font-family:Arial, Helvetica, sans-serif;""><b>Хотите знать больше?</b></p>
+                    <p style="font-size: 16px; font-family:Arial, Helvetica, sans-serif;"">
+                        Совсем скоро стартует новый курс:
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" border-left="2px solid #ffd44c">
+                <mj-text>
+                    <p class="paragraph-moreinfo">
+                        <a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold; font-family:Arial, Helvetica, sans-serif;" href="https://lextorium.com/courses/vebinary/zdaniya-pomescheniya-v-nih.html">
+                        Здания и помещения в них: создание, распределение, управление, контроль, защита
+                    </a></p>
+                    <p class="paragraph-moreinfo">
+                        <b>Спикеры: </b>Роман Бевзенко, Андрей Егоров, Вероника Величко, </p>
+                    <p class="paragraph-moreinfo"><b>Начало: </b>
+                        16 октября
+                    </p>
+                    <p class="paragraph-moreinfo"><b>Формат
+                        участия: </b>онлайн + запись курса</p>
+                    <p class="paragraph-moreinfo" ><b>Стоимость:
+                    </b>от 13 900</p>
+                    <p class="paragraph-moreinfo">После окончания курса возможно получить удостоверение о повышении
+                        квалификации</p>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-button mj-class="button"  href="https://lextorium.com/courses/vebinary/zdaniya-pomescheniya-v-nih.html">
+                Подробнее о курсе
+            </mj-button>
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+        <mj-include path="footer.mjml"/>
+    </mj-body>
+</mjml>
