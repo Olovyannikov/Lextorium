@@ -2,7 +2,7 @@
     <mj-group>
         <mj-column>
             <mj-text align="center"
-                     mj-class="preheader"><a href="{{_WebLetterUrl}}">Открыть в
+                     mj-class="preheader"><a style="color: #9c9c9c" href="{{_WebLetterUrl}}">Открыть в
                 браузере</a></mj-text>
         </mj-column>
     </mj-group>
