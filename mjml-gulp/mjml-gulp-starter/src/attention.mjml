@@ -1,0 +1,113 @@
+<mjml>
+    <mj-include path="head.mjml"/>
+
+    <mj-body width="600px" background-color="#ffffff">
+
+    <mj-include path="header.mjml"/>
+
+        <mj-section width="600px" background-url="https://funkyimg.com/i/36YGi.jpg" background-repeat="no-repeat"
+                    background-size="cover" padding="40px 0">
+            <mj-column width="100%">
+                <mj-text align="left" color="#ffffff" line-height="32px"
+                         font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="21px" padding="12px 20px 0 20px"></mj-text>
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="46px" font-weight="600" padding="20px 20px 20px 20px">Ваши результаты тестирования</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial,serif;  padding: 20px;
+                    padding-right: 0; padding-bottom: 0; width: 100%; max-width: 600px;">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial,serif;  padding: 20px;
+                    padding-right: 0; padding-bottom: 0; width: 100%; max-width: 600px;">
+                        Вы прослушали курс «{{course_name}}» и блестяще сдали тест. Поздравляем! После 2 сентября Вам будет отправлено удостоверение о повышении квалификации.
+                         </p>
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial,serif;  padding: 20px;
+                    padding-right: 0; padding-bottom: 0; width: 100%; max-width: 600px;">Нам важно Ваше мнение и обратная связь. Пожалуйста, оставьте отзыв, если еще не оставляли. Нам будет приятно.</p>
+                </mj-text>
+                    <mj-button inner-padding="20px" background-color="#8bb420"
+                               href="#"
+                               font-family="Book Antiqua,Arial" font-weight="bold" font-size="20px">Оставить отзыв</mj-button>
+            </mj-column>
+
+        </mj-section>
+
+        <mj-section mj-class="container" padding-top="20px" padding-bottom="20px">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <span style="display:block; border: 1px dashed #93bf3d">
+                    <span style="display:inline-block; vertical-align: middle; height: 72px;"><img
+                        src="https://funkyimg.com/i/33vgV.png" alt=""></span>
+                    <p style="text-align: left;display:inline-block;font-size: 16px; line-height: 24px; font-family:
+                    Arial,serif;
+                     padding:
+                    20px;
+                    padding-right: 0; padding-bottom: 0; padding-top: 10px;width: 80%; max-width: 600px;">
+                        Обращаем Ваше внимание, что на все курсы, семинары и конференции с 21 августа до 3 сентября
+                        2020 <b>Ваша персональная скидка 20%.</b> Код скидки <b>exl-tp3IhIi8A-BrTb.</b>
+                    </p></span>
+                </mj-text>
+                <mj-button padding-top="20px" inner-padding="20px" background-color="#8bb420"
+                           href="#"
+                           font-family="Book Antiqua,Arial" font-weight="bold" font-size="20px">Активировать
+                на сайте</mj-button>
+                <mj-text>
+                    <p style="font-size: 16px; line-height: 24px; font-family: Arial, sans-serif; padding: 20px">
+                        Подробности у менеджера по телефону: <a style="color: #8bb420" href="tel:+79157559800">+7 (915)
+                        755-98-00</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%" border-left="2px solid #ffd44c">
+                <mj-text>
+                    <p style="margin: 0; padding-top: 20px; padding-bottom: 20px;  padding-left: 15px; font-size:
+                    16px; font-family:
+                    Arial, sans-serif;">
+                        <b>Новые курсы уже опубликованы на сайте <a style="color: #8bb420"
+                                                                    href="https://lextorium.com">Lextorium
+                            .com</a></b>
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text>
+                    <p style=" font-size:
+                    16px; font-family:
+                    Arial, sans-serif;">Рады будем снова встрече с Вами!</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        
+        <mj-section mj-class="container" padding-top="20px">
+            <mj-column width="30%">
+                <mj-text padding-left="20px">
+                <img src="https://funkyimg.com/i/36YDS.jpg" alt="">
+                </mj-text>
+            </mj-column>
+            <mj-column width="70%">
+                <mj-text padding-left="40px">
+                    <p style="font-size: 18px; font-weight:bold; font-family: Arial, sans-serif;">
+                        Ксения Постоюк
+                    </p>
+                    <p style="font-size: 16px; font-family: Arial, sans-serif;">
+                        руководитель проекта <br>
+                        и вся команда «Лексториум»
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+<mj-include path="footer.mjml"/>
+
+
+    </mj-body>
+</mjml>
