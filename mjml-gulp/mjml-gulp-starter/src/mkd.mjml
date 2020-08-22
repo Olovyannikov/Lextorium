@@ -23,10 +23,11 @@
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
                     <p class="paragraph">
-                        Можно ли устанавливать разный размер взносов на содержание ОИ для разных собственников помещений в одном и том же МКД?
+                        Можно ли устанавливать <b>разный размер</b> взносов на содержание ОИ (общего имущества) для
+                        <b>разных собственников</b> помещений в одном и том же МКД (многоквартирном доме)?
                     </p>
                     <p class="paragraph">
-                        <a class="link" href="https://lextorium.com/courses/vebinary/zdaniya-pomescheniya-v-nih.html">
+                        <a style="color: #93bf3d;" class="link" href="https://lextorium.com/news/vsem-ne-porovnu.-razmer-platezhey-v-mnogokvartirnom-dome.html">
                             Позиция  Конституционного суда РФ на 29.01.2018 г. по этому вопросу.
                         </a>
                     </p>
