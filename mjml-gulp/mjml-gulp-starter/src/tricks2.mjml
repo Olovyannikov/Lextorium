@@ -1,0 +1,88 @@
+<mjml>
+    <mj-include path="head.mjml"/>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="header.mjml"/>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/371Vg.jpg" background-repeat="no-repeat"
+                    background-size="cover" padding="40px 0">
+            <mj-column width="100%">
+                <mj-text align="left" color="#ffffff" line-height="32px"
+                         font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="21px" padding="12px 20px 0 20px"></mj-text>
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="46px" font-weight="600" padding="0px 20px 20px 20px">
+                    “Просуженные” требования при несостоятельности
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p class="paragraph">
+                        Даже те, кто не имеет никакого отношения к футболу, хотя бы  раз в жизни слышали про финт Зидана, финт Роналду и т.п. И вот ведь что интересно, вряд ли кто-нибудь из юристов захотел бы прославить свою фамилию, присоединив ее к какой-нибудь правовой уловке, например, к такой, как “просуженные” требования:
+
+                    </p>
+                    <p class="paragraph" style="background-color:#e5e5e5;
+                    vertical-align:middle; padding: 20px 20px; width: 600px; margin-left: 20px; font-weight:bold;">
+                        Некоторые лица заблаговременно получают решение суда о взыскании долга в свою пользу с будущего банкрота
+                    </p>
+                    <ul style="font-family: Arial, sans-serif; padding: 0 0 0 20px; margin-left: 20px;text-align: left;" >
+                        <li style="padding-left: 10px;">
+                            зачем?
+                        </li>
+                        <li style="padding-left: 10px;">
+                            на что это повлияет?
+                        </li>
+                        <li style="padding-left: 10px;">
+                            двойной финт
+                        </li>
+                    </ul>
+                </mj-text>
+                <mj-button href="https://lextorium.com/news/finty-bankrotstva-%E2%80%9Cprosuzhennye%E2%80%9D-trebovaniya.html" mj-class="button">Узнать</mj-button>
+                <mj-spacer height="40px"></mj-spacer>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%">
+                <mj-text>
+                    <p style="font-size: 18px; padding-bottom: 10px; font-family:Arial, Helvetica, sans-serif;"><b>Хотите знать больше?</b></p>
+                    <p style="font-size: 16px; font-family:Arial, Helvetica, sans-serif;">
+                        Совсем скоро стартует новый курс:
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" border-left="2px solid #ffd44c">
+                <mj-text>
+                    <p class="paragraph-moreinfo">
+                        <a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold; font-family:Arial, Helvetica, sans-serif;" href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">
+                            Введение в банкротство
+                        </a></p>
+                    <p class="paragraph-moreinfo">
+                        <b>Спикеры: </b> Андрей Егоров, Павел Семенцов </p>
+                    <p class="paragraph-moreinfo"><b>Начало: </b>
+                        3 сентября
+                    </p>
+                    <p class="paragraph-moreinfo"><b>Формат
+                        участия: </b>онлайн + запись курса</p>
+                    <p class="paragraph-moreinfo" ><b>Стоимость:
+                    </b>от 13 900</p>
+                    <p class="paragraph-moreinfo">После окончания курса возможно получить удостоверение о повышении
+                        квалификации</p>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-button mj-class="button"  href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">
+                Подробнее о курсе
+            </mj-button>
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+        <mj-include path="footer.mjml" />
+    </mj-body>
+</mjml>
