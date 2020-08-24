@@ -1,5 +1,11 @@
 <mjml>
-    <mj-include path="prototypes/head.mjml"/>
+    <mj-head>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-preview>
+            РАССЫЛКА ДЕСЯТИЛЕТИЯ
+        </mj-preview>
+        <mj-title>А это тайтл</mj-title>
+    </mj-head>
     <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
         <mj-section width="600px" background-url="https://funkyimg.com/i/372V5.jpg" background-repeat="no-repeat"
@@ -12,7 +18,7 @@
             <mj-column width="100%" vertical-align="bottom">
                 <mj-text align="left" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-                         font-size="46px" font-weight="600" padding="0px 20px 20px 20px"> Несостоятельность арендодателя
+                         font-size="36px" font-weight="600" padding="0px 20px 20px 20px">Несостоятельность арендодателя
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -38,10 +44,16 @@
                         Арендодатель банкрот. Арендатор желает сохранить права аренды на объект. А кредиторы хотят получить и реализовать объект, “очищенный” от аренды.
                     </p>
                 </mj-text>
-                <mj-button
-                        href="https://lextorium.com/news/arendodatel-banco-rotto-chto-zhdet-arendatora.html" mj-class="button">Что делать?</mj-button>
-                <mj-spacer height="40px"></mj-spacer>
             </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html" class="button">Что
+                        делать?
+                    </a>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
         </mj-section>
 
         <mj-section mj-class="container">
@@ -74,9 +86,12 @@
                 </mj-text>
             </mj-column>
             <mj-spacer height="40px"></mj-spacer>
-            <mj-button mj-class="button"  href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">
-                Подробнее о курсе
-            </mj-button>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html" class="button">Узнать
+                        больше</a>
+                </mj-text>
+            </mj-column>
             <mj-spacer height="40px"></mj-spacer>
         </mj-section>
         <mj-include path="prototypes/footer.mjml" />
