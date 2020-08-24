@@ -20,10 +20,11 @@
 
 <mj-section background-color="#000">
     <mj-column>
-        <mj-text color="#fff" padding="5px 20px">
-            Вы получили это письмо, так как оставили свой электронный адрес на сайте <a style="color: #d5b13f"
+        <mj-text color="#9c9c9c" font-size="13px" padding="5px 20px">
+            Вы получили это письмо, так как оставили свой электронный адрес на сайте <a style="color: #d5b13f;
+            font-size: 13px;"
                                                                                         href="https://lextorium.com">
-            Lextorium.com</a>. И подтвердили согласие на получение емейл-рассылки. <a style="color: #d5b13f" href="{{UnsubscribeUrl}}">Отпишитесь</a>, если не хотите
+            Lextorium.com</a>. И подтвердили согласие на получение емейл-рассылки. <a style="color: #d5b13f;" href="{{UnsubscribeUrl}}">Отпишитесь</a>, если не хотите
             получать важные новости и предложения.
         </mj-text>
     </mj-column>
