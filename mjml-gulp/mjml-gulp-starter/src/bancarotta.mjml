@@ -25,24 +25,19 @@
                     <p class="paragraph">
                         Современное слово “банкрот” происходит от двух слов:
                     </p>
-                    <p class="paragraph" style="background-color:#e5e5e5;
+                    <p class="paragraph" style="text-align: center;
                     vertical-align:middle; padding: 20px 20px; width: 600px; margin-left: 20px; font-weight:bold;">
-                        Banco rotto - сломанная скамья или Banca rotta - сломанный банк.</p>
+                        Banco rotto - сломанная скамья <br> Banca rotta - сломанный банк.</p>
                     <p class="paragraph">На оживленных итальянских площадях за низкими столами, похожими на скамьи (banco), сидели менялы (bacherii). Скамью ломали, если у  менялы заканчивались деньги  или он был уличен в обмане.</p>
                     <p class="paragraph">
                         Как Вы думаете, в свете общей экономической ситуации, как скоро к Вам обратятся с таким вопросом:
                     </p>
-                    <ul style="font-family: Arial, sans-serif; padding: 0 0 0 20px; margin-left: 20px;text-align: left;" >
-                        <li style="padding-left: 10px;">
-                            Арендодатель банкрот.
-                        </li>
-                        <li style="padding-left: 10px;">
-                            Арендатор желает сохранить права аренды на объект.
-                        </li>
-                        <li style="padding-left: 10px;">
-                            Кредиторы хотят получить и реализовать объект, “очищенный” от аренды.
-                        </li>
-                    </ul>
+
+                    <p class="paragraph" style="background-color:#e5e5e5;
+                    vertical-align:middle; padding: 20px 20px; width: 600px; margin-left: 20px; font-weight:bold;">
+                        Арендодатель банкрот. Арендатор желает сохранить права аренды на объект. А кредиторы хотят получить и реализовать объект, “очищенный” от аренды.
+                    </p>
+
                 </mj-text>
                 <mj-button
                         href="https://lextorium.com/news/arendodatel-banco-rotto-chto-zhdet-arendatora.html" mj-class="button">Что делать?</mj-button>
