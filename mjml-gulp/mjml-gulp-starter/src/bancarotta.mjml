@@ -2,7 +2,7 @@
     <mj-include path="prototypes/head.mjml"/>
     <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-url="https://funkyimg.com/i/371Vg.jpg" background-repeat="no-repeat"
+        <mj-section width="600px" background-url="https://funkyimg.com/i/372V5.jpg" background-repeat="no-repeat"
                     background-size="cover" padding="40px 0">
             <mj-column width="100%">
                 <mj-text align="left" color="#ffffff" line-height="32px"
@@ -12,8 +12,7 @@
             <mj-column width="100%" vertical-align="bottom">
                 <mj-text align="left" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-                         font-size="46px" font-weight="600" padding="0px 20px 20px 20px">
-                    “Просуженные” требования при несостоятельности
+                         font-size="46px" font-weight="600" padding="0px 20px 20px 20px">Banca Rotta арендодателя
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -24,26 +23,29 @@
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
                     <p class="paragraph">
-                        Даже те, кто не имеет никакого отношения к футболу, хотя бы  раз в жизни слышали про финт Зидана, финт Роналду и т.п. И вот ведь что интересно, вряд ли кто-нибудь из юристов захотел бы прославить свою фамилию, присоединив ее к какой-нибудь правовой уловке, например, к такой, как “просуженные” требования:
-
+                        Современное слово “банкрот” происходит от двух слов:
                     </p>
                     <p class="paragraph" style="background-color:#e5e5e5;
                     vertical-align:middle; padding: 20px 20px; width: 600px; margin-left: 20px; font-weight:bold;">
-                        Некоторые лица заблаговременно получают решение суда о взыскании долга в свою пользу с будущего банкрота
+                        Banco rotto - сломанная скамья или Banca rotta - сломанный банк.</p>
+                    <p class="paragraph">На оживленных итальянских площадях за низкими столами, похожими на скамьи (banco), сидели менялы (bacherii). Скамью ломали, если у  менялы заканчивались деньги  или он был уличен в обмане.</p>
+                    <p class="paragraph">
+                        Как Вы думаете, в свете общей экономической ситуации, как скоро к Вам обратятся с таким вопросом:
                     </p>
                     <ul style="font-family: Arial, sans-serif; padding: 0 0 0 20px; margin-left: 20px;text-align: left;" >
                         <li style="padding-left: 10px;">
-                            зачем?
+                            Арендодатель банкрот.
                         </li>
                         <li style="padding-left: 10px;">
-                            на что это повлияет?
+                            Арендатор желает сохранить права аренды на объект.
                         </li>
                         <li style="padding-left: 10px;">
-                            двойной финт
+                            Кредиторы хотят получить и реализовать объект, “очищенный” от аренды.
                         </li>
                     </ul>
                 </mj-text>
-                <mj-button href="https://lextorium.com/news/finty-bankrotstva-%E2%80%9Cprosuzhennye%E2%80%9D-trebovaniya.html" mj-class="button">Узнать</mj-button>
+                <mj-button
+                        href="https://lextorium.com/news/arendodatel-banco-rotto-chto-zhdet-arendatora.html" mj-class="button">Что делать?</mj-button>
                 <mj-spacer height="40px"></mj-spacer>
             </mj-column>
         </mj-section>
