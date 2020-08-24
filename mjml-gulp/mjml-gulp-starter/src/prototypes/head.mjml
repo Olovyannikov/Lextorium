@@ -44,12 +44,14 @@
         font-family: "Book Antiqua,Arial";
         font-weight: bold;
         font-size: 20px;
-        width: 150px;
+        width: auto;
         height: 20px;
         line-height: 120%;
         color: white;
         text-align: center;
-        padding: 12px 25px;
+        border-style: solid;
+        border-color: #8bb420;
+        border-width:10px 30px 10px 30px;
         border-radius: 3px;
         text-decoration: none;
         margin: 0 auto;

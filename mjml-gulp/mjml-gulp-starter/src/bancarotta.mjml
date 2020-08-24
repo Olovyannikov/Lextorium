@@ -32,7 +32,10 @@
                         Современное слово “банкрот” происходит от двух слов:
                     </p>
                     <p class="paragraph" style="text-align: center;
-                    vertical-align:middle; padding: 20px 20px; width: 600px; margin-left: 20px; font-weight:bold;">
+                    vertical-align:middle; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; width:
+                    600px; margin-left:
+                    20px; font-weight:bold;
+                    line-height: 26px;">
                         Banco rotto - сломанная скамья <br> Banca rotta - сломанный банк.</p>
                     <p class="paragraph">На оживленных итальянских площадях за низкими столами, похожими на скамьи (banco), сидели менялы (bacherii). Скамью ломали, если у  менялы заканчивались деньги  или он был уличен в обмане.</p>
                     <p class="paragraph">
@@ -45,12 +48,16 @@
                     </p>
                 </mj-text>
             </mj-column>
+
+        </mj-section>
+
+        <mj-section mj-class="container">
             <mj-spacer height="40px"></mj-spacer>
             <mj-column width="100%">
                 <mj-text align="center">
                     <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html" class="button">Что
                         делать?
-                        </a>
+                    </a>
                 </mj-text>
             </mj-column>
             <mj-spacer height="40px"></mj-spacer>
@@ -65,6 +72,9 @@
                     </p>
                 </mj-text>
             </mj-column>
+                <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+        <mj-section>
             <mj-column width="100%" border-left="2px solid #ffd44c">
                 <mj-text>
                     <p class="paragraph-moreinfo">
@@ -86,13 +96,15 @@
                 </mj-text>
             </mj-column>
             <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+        <mj-section>
             <mj-column width="100%">
-            <mj-text align="center">
-            <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html" class="button">Узнать
-                больше</a>
-            </mj-text>
+                <mj-text align="center">
+                    <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html" class="button">Узнать
+                        больше</a>
+                </mj-text>
             </mj-column>
-                <mj-spacer height="40px"></mj-spacer>
+            <mj-spacer height="40px"></mj-spacer>
         </mj-section>
         <mj-include path="prototypes/footer.mjml" />
     </mj-body>
