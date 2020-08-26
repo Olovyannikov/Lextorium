@@ -1,0 +1,88 @@
+<mjml>
+    <mj-head>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-preview>Если знания - то Lextorium!</mj-preview>
+        <mj-title>Как наполнить котел конкурсной массы и не отдать своё</mj-title>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="prototypes/header.mjml"/>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/375vu.jpg" background-repeat="no-repeat"
+                    background-size="cover">
+            <mj-column width="100%" padding="40px">
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="36px" font-weight="600" padding="0px 20px 20px 20px"> Как наполнить котел конкурсной массы и не отдать своё
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p class="paragraph">
+                        А у Вас есть предчувствие схлопывающегося  времени? Его и так не хватало,  а леди Пандемия бросила кости на стол и правила игры совсем ужесточились.В такие периоды ценится не занятость, а продуктивность.
+                    </p>
+                    <p class="paragraph" style="padding-top: 10px;">
+                        Мы все теперь связаны одной цепью: один банкрот - а все, кто заключал с ним сделки в “предбанкротный“ период,  рискуют потерять имущество в ходе дел об оспаривании должниками. Параллельно стоит встать в очередь должников  и насыщать конкурсную массу.
+                    </p>
+                    <p class="paragraph" style="border-left: 2px solid #ffd44c; padding: 0; padding-left: 20px; margin-left: 20px;">
+                        Как сделать это результативно, с наибольшей отдачей и чтобы еще время “на жизнь” осталось?
+                    </p>
+                    <p class="paragraph">
+                        Посетить семинар - интенсив по авторской методике от ведущего специалиста России по
+                        банкротству и получить  в свое распоряжение <b>продвинутый инструментарий для юридической работы
+                        -  все через призму актуальной судебной практики и с разбором тончайших нюансов: <br>
+<center style="font-family: Arial,sans-serif; font-size: 16px;">
+                        экономия Вашего времени, эффективно, без “воды”!</center></b>
+
+                    </p>
+                </mj-text>
+            </mj-column>
+
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a href="https://lextorium.com/courses/konferentsii/osparivanie-sdelok-i-subsidiarnaya-otvetstvennost-pri-bankrotstve.html" class="button">
+                        Получить силу
+                    </a>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="20px"></mj-spacer>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-spacer height="20px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a style="font-size: 16px;"
+                            href="https://lextorium.com/news/skovannye-odnoy-tsepyu.-osparivanie-sdelok-pri-bankrotstve.html" class="link">
+                        Немного прокачаться прямо сейчас
+                    </a>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-column width="100%">
+                <mj-text>
+                    <p class="paragraph">
+                        <i>
+                            {{First_name|Коллега}}, желаем, чтобы Ваш день сложился удачно! <br> <br>
+                            Команда Lextorium
+
+                        </i>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="prototypes/footer.mjml" />
+    </mj-body>
+</mjml>
