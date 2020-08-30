@@ -6,7 +6,7 @@
     </mj-head>
     <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-url="https://funkyimg.com/i/378Wy.jpg" background-repeat="no-repeat"
+        <mj-section width="600px" background-url="https://funkyimg.com/i/3792Y.jpg" background-repeat="no-repeat"
                     background-size="cover">
             <mj-column width="100%" padding="30px">
             </mj-column>
