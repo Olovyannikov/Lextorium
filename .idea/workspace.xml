@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be0f3df-b31b-4c0c-8ac2-49afcdd4f1e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/src/directors.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/stairs__second.html" beforeDir="false" afterPath="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/dist/stairs__second.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,16 +24,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fzFVIQ80rp5t51dhinxo1va6Px" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mjml-gulp/mjml-gulp-starter/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\excal\OneDrive\Документы\GitHub\Lextorium\mjml-gulp\mjml-gulp-starter\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,11 +59,55 @@
       <workItem from="1597830075210" duration="6580000" />
       <workItem from="1597845601277" duration="6093000" />
       <workItem from="1597902640993" duration="1312000" />
-      <workItem from="1597937399138" duration="2334000" />
+      <workItem from="1597937399138" duration="7888000" />
+      <workItem from="1598000095498" duration="827000" />
+      <workItem from="1598000954309" duration="9889000" />
+      <workItem from="1598103959915" duration="2262000" />
+      <workItem from="1598171205435" duration="3541000" />
+      <workItem from="1598248948988" duration="4864000" />
+      <workItem from="1598276839852" duration="1336000" />
+      <workItem from="1598288328878" duration="2901000" />
+      <workItem from="1598297552058" duration="1432000" />
+      <workItem from="1598350880854" duration="3021000" />
+      <workItem from="1598366739507" duration="1235000" />
+      <workItem from="1598461660100" duration="2397000" />
+      <workItem from="1598468695112" duration="780000" />
+      <workItem from="1598787261391" duration="6009000" />
     </task>
+    <task id="LOCAL-00001" summary="New message">
+      <created>1597940407370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597940407370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New message" />
+    <option name="LAST_COMMIT_MESSAGE" value="New message" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="101" y="141" key="CommitChangelistDialog2" timestamp="1597940405697">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="101" y="141" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1597940405697" />
+    <state x="1049" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598355638000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1049" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1598355638000" />
+    <state x="284" y="487" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597940425095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="284" y="487" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1597940425095" />
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1598468805827">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598468805827" />
   </component>
 </project>
