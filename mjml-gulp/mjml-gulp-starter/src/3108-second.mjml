@@ -6,13 +6,13 @@
     </mj-head>
     <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-url="https://funkyimg.com/i/3792Y.jpg" background-repeat="no-repeat"
+        <mj-section width="600px" background-url="https://funkyimg.com/i/3793w.jpg" background-repeat="no-repeat"
                     background-size="cover">
             <mj-column width="100%" padding="30px"></mj-column>
             <mj-column width="100%" vertical-align="bottom">
                 <mj-text align="left" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-                         font-size="36px" font-weight="600" padding="0px 20px 20px 20px">
+                         font-size="36px" font-weight="600" padding="40px 20px 50px 20px">
                     В фокусе bankротства: с кем опасно иметь дело?
                 </mj-text>
             </mj-column>
