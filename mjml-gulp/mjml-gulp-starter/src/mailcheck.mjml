@@ -64,12 +64,18 @@
                     <p class="paragraph">
                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
                         font-size: 28px; font-weight:bold;">4. </span>
-                        <a href="https://lextorium.com/kontakty.html" class="link">Наша команда, </a>которая каждый день
+                        <a href="https://lextorium.com/kontakty.html" class="link">Наша команда</a>, которая каждый день
                         делает мир чуточку лучше :)
                     </p>
                     <p class="paragraph">
-                        А также на нашем са	йте Вы найдете все по любой теме, что Вам по вкусу:
+                        А также на нашем сайте Вы найдете все по любой теме, что Вам по вкусу:
                     </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="50%">
+                <mj-text>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
                         <a href="#" class="link">Банкротство</a>
@@ -95,6 +101,14 @@
                         <a href="#" class="link">Сделки</a>
                     </p>
                     <p class="paragraph">
+                    <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                    <a href="#" class="link">Аренда</a>
+                </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+                <mj-text>
+                    <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
                         <a href="#" class="link">Обеспечение</a>
                     </p>
@@ -118,15 +132,11 @@
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
                         <a href="#" class="link">Обязательственное право</a>
                     </p>
-                    <p class="paragraph">
-                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Аренда</a>
-                    </p>
                 </mj-text>
             </mj-column>
         </mj-section>
 
-        <mj-section mj-class="container">
+        <mj-section mj-class="container" padding-left="0">
             <mj-column width="100%">
                 <mj-text>
                     <p class="paragraph">
