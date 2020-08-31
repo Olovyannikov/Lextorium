@@ -6,13 +6,13 @@
     </mj-head>
     <mj-body width="600px" background-color="#f6f6f6">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-color="#f6f6f6" background-url="https://funkyimg.com/i/37a8T.jpg"
+        <mj-section width="600px" background-color="#f6f6f6" 
                     background-repeat="no-repeat"
                     background-size="cover">
             <mj-column width="100%" padding="50px">
             </mj-column>
             <mj-column width="100%" vertical-align="bottom">
-                <mj-text align="left" color="#FFFFFF" line-height="46px"
+                <mj-text align="left" color="#141414" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
                          font-size="36px" font-weight="600" padding="0px 20px 50px 20px">
                     Подтвердите Ваш email
