@@ -20,18 +20,18 @@
         </mj-text>
     </mj-column>
 </mj-section>
-<mj-section background-color="#000000">
-    <mj-column>
-        <mj-navbar base-url="https://lextorium.com/" ico-color="#444">
-            <mj-navbar-link padding="10px 15px" text-transform color="#ffdd4c"
+<mj-section font-family="Arial, sans-serif" background-color="#000000">
+    <mj-column font-family="Arial, sans-serif">
+        <mj-navbar font-family="Arial, sans-serif" base-url="https://lextorium.com/" ico-color="#444">
+            <mj-navbar-link font-family="Arial, sans-serif" padding="10px 15px" text-transform color="#ffdd4c"
                             href="https://lextorium.com/about.html">О портале</mj-navbar-link>
-            <mj-navbar-link padding="10px 15px" text-transform color="#ffffff"
+            <mj-navbar-link font-family="Arial, sans-serif" padding="10px 15px" text-transform color="#ffffff"
                             href="https://lextorium.com/news/">Новости
             </mj-navbar-link>
-            <mj-navbar-link padding="10px 15px" text-transform color="#ffffff"
+            <mj-navbar-link font-family="Arial, sans-serif" padding="10px 15px" text-transform color="#ffffff"
                             href="https://lextorium.com/courses/">
                 <span style="padding: 12px 0 12px 0;">Курсы</span></mj-navbar-link>
-            <mj-navbar-link padding="10px 15px" text-transform color="#ffffff"
+            <mj-navbar-link font-family="Arial, sans-serif" padding="10px 15px" text-transform color="#ffffff"
                             href="tel:+78005513206" padding="0"><span style="display: inline-block;
                                     padding-left: 30px; padding-top: 10px; padding-bottom: 10px; "
                                                                       role="link"
