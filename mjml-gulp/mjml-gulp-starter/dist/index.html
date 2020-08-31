@@ -23,6 +23,7 @@
     .mailing__heading {
       margin-top: 0;
       padding-top: 20px;
+      width: 50%;
     }
 
     .container {
@@ -33,6 +34,7 @@
 
     .mailing {
       display: flex;
+      flex-wrap: wrap;
     }
 
     .mailing__list {
@@ -74,18 +76,34 @@
     .technical-letters__heading {
       text-align: center;
     }
+    details {
+      min-width: 50%;
+      margin-bottom: 20px;
+    }
+    summary {
+
+      outline: none;
+    }
 
     @media (max-width: 1000px) {
       .mailing {
         display: block;
       }
     }
+
+    .wrapper {
+      order: 1;
+    }
   </style>
 </head>
 <body>
 <section class="mailing container">
-  <div class="mailing__wrapper">
-  <h1 class="mailing__heading">Рассылки Lextorium.com</h1>
+      <h1 class="mailing__heading">Рассылки Lextorium.com</h1>
+  <div class="wrapper">
+  <details>
+    <summary>
+      Август
+    </summary>
   <div class="mailing__wrapper">
     <h3 class="mailin__list-heading">Рассылка на 24.08.2020</h3>
     <ul class="mailing__list">
@@ -127,7 +145,8 @@
         <a href="2708-second.html" target="_blank" class="mailing__list-link"> 2 ракурса в оспаривании сделок и СО при несостоятельности</a>
       </li>
     </ul>
-  </div>  <div class="mailing__wrapper">
+  </div>
+    <div class="mailing__wrapper">
   <h3 class="mailin__list-heading">Рассылка на 31.08.2020</h3>
   <ul class="mailing__list">
     <li class="mailing__list-item">
@@ -142,10 +161,25 @@
     </li>
   </ul>
 </div>
+  </details>
+    <details>
+      <summary>Сентябрь</summary>
+      <div class="mailing__wrapper">
+        <h3 class="mailin__list-heading">Рассылка на 01.09.2020</h3>
+        <ul class="mailing__list">
+          <li class="mailing__list-item">
+            <a href="0109.html" target="_blank" class="mailing__list-link">
+              Финансовое обнуление: есть у Вас на это 5 причин?
+            </a>
+          </li>
+        </ul>
+      </div>
+    </details>
+
   </div>
+
   <div class="technical-letters">
     <h2 class="technical-letters__heading">Технические письма</h2>
-    <div class="mailing__wrapper">
       <div class="mailing__wrapper">
         <ul class="mailing__list">
           <li class="mailing__list-item">
@@ -153,7 +187,7 @@
               Подтвердите Ваш email</a>
           </li>
         </ul>
-      </div>
+  </div>
   </div>
 </section>
 </body>
