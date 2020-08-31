@@ -31,6 +31,10 @@
       padding: 20px;
     }
 
+    .mailing {
+      display: flex;
+    }
+
     .mailing__list {
       list-style: none;
       padding: 0;
@@ -62,10 +66,25 @@
       border-bottom: 2px solid #ffd44c;
       padding-bottom: 5px;
     }
+
+    .technical-letters {
+      width: 50%;
+    }
+    
+    .technical-letters__heading {
+      text-align: center;
+    }
+
+    @media (max-width: 1000px) {
+      .mailing {
+        display: block;
+      }
+    }
   </style>
 </head>
 <body>
 <section class="mailing container">
+  <div class="mailing__wrapper">
   <h1 class="mailing__heading">Рассылки Lextorium.com</h1>
   <div class="mailing__wrapper">
     <h3 class="mailin__list-heading">Рассылка на 24.08.2020</h3>
@@ -123,6 +142,19 @@
     </li>
   </ul>
 </div>
+  </div>
+  <div class="technical-letters">
+    <h2 class="technical-letters__heading">Технические письма</h2>
+    <div class="mailing__wrapper">
+      <div class="mailing__wrapper">
+        <ul class="mailing__list">
+          <li class="mailing__list-item">
+            <a href="mailcheck.html" target="_blank" class="mailing__list-link">
+              Подтвердите Ваш email</a>
+          </li>
+        </ul>
+      </div>
+  </div>
 </section>
 </body>
 </html>
