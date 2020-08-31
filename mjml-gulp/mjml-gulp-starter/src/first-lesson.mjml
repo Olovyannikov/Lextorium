@@ -25,7 +25,10 @@
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
                     <p class="paragraph">
-                        Завтра в 10:00 МСК начнется первое занятие курса <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">Введение в банкротство.</a>
+                        Завтра в 10:00 МСК начнется первое занятие курса <a
+                         class="link"
+                         href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">Введение в
+                        банкротство.</a>
 
                     </p>
                     <p class="paragraph">
