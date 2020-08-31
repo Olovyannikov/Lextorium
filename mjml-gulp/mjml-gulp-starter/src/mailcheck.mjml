@@ -6,7 +6,7 @@
     </mj-head>
     <mj-body width="600px" background-color="#f6f6f6">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-color="#f6f6f6" 
+        <mj-section width="600px" background-color="#f6f6f6"
                     background-repeat="no-repeat"
                     background-size="cover">
             <mj-column width="100%" padding="50px">
@@ -146,7 +146,7 @@
                         </i>
                     </p>
                 </mj-text>
-                <mj-image src="https://funkyimg.com/i/37a91.jpg" alt="Просто так"/>
+
             </mj-column>
         </mj-section>
         <mj-include path="prototypes/footer.mjml" />
