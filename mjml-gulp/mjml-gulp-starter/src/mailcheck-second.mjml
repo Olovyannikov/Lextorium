@@ -1,0 +1,153 @@
+<mjml>
+    <mj-head>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-preview>Если знания - то Lextorium!</mj-preview>
+        <mj-title>Подтвердите Ваш email</mj-title>
+    </mj-head>
+    <mj-body width="600px" background-color="#f6f6f6">
+        <mj-include path="prototypes/header.mjml"/>
+        <mj-section width="600px" background-color="#f6f6f6" background-url="https://funkyimg.com/i/37a8T.jpg"
+                    background-repeat="no-repeat"
+                    background-size="cover">
+            <mj-column width="100%" padding="50px">
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#FFFFFF" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="36px" font-weight="600" padding="0px 20px 50px 20px">
+                    Подтвердите Ваш email
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-bottom="0" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{$fullname}</span>, здравствуйте!
+                        Поздравляем, Вы успешно зарегистрировались на сайте {$_modx->config.site_name}!
+                        Для того, чтобы продолжить работать с сайтом, Вам необходимо подтвердить свой email:
+                    </p>
+
+                </mj-text>
+                <mj-spacer height="20px"/>
+                <mj-text align="center">
+                    <a href="{$link}" class="button">
+                        Подтвердить e-mail
+                    </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-left="0" padding-top="0">
+            <mj-spacer height="10px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text>
+                    <p class="paragraph">
+                        На что стоит обратить внимание в первую очередь:
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">1. </span>
+                        <a href="https://lextorium.com/courses" class="link">Расписание </a>ближайших мероприятий и
+                        онлайн-курсов
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">2. </span>
+                        <a href="https://lextorium.com/news" class="link">Новости </a>и разбор интересных вопросов
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">3. </span>
+                        <a href="https://lextorium.com/lektory" class="link">Наши лекторы</a>, которые помогают
+                        разобраться во всех юридических тонкостях
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">4. </span>
+                        <a href="https://lextorium.com/kontakty.html" class="link">Наша команда</a>, которая каждый день
+                        делает мир чуточку лучше :)
+                    </p>
+                    <p class="paragraph">
+                        А также на нашем сайте Вы найдете все по любой теме, что Вам по вкусу:
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="50%">
+                <mj-text>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=bankruptcy" class="link">Банкротство</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=liabilities" class="link">Обязательства</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=property-law" class="link">Вещное право</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=corporative-law" class="link">Корпоративное право</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=gk-common" class="link">Общая часть ГК</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=sdelki" class="link">Сделки</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=rent" class="link">Аренда</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+                <mj-text>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=obespechenie" class="link">Обеспечение</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=otvetstvennost" class="link">Ответственность</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=dobrosovestnost" class="link">Добросовестность</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=poetazhnaya-sobstvennost" class="link">Поэтажная собственность</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=limitation-of-actions" class="link">Исковая давность</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        <a href="https://lextorium.com/courses/?tag=%20obligatory-law" class="link">Обязательственное право</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-left="0">
+            <mj-column width="100%">
+                <mj-text>
+                    <p class="paragraph">
+                        <i>
+                            До скорой встречи, команда {$_modx->config.site_name}!
+                        </i>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="prototypes/footer.mjml" />
+    </mj-body>
+</mjml>
