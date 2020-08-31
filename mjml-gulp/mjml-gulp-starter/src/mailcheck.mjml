@@ -6,14 +6,15 @@
     </mj-head>
     <mj-body width="600px" background-color="#f6f6f6">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-color="#f6f6f6" background-repeat="no-repeat"
+        <mj-section width="600px" background-color="#f6f6f6" background-url="https://funkyimg.com/i/37a8T.jpg"
+                    background-repeat="no-repeat"
                     background-size="cover">
-            <mj-column width="100%" padding="40px">
+            <mj-column width="100%" padding="50px">
             </mj-column>
             <mj-column width="100%" vertical-align="bottom">
-                <mj-text align="left" color="#000000" line-height="46px"
+                <mj-text align="left" color="#FFFFFF" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
-                         font-size="36px" font-weight="600" padding="0px 20px 20px 20px">
+                         font-size="36px" font-weight="600" padding="0px 20px 50px 20px">
                     Подтвердите Ваш email
                 </mj-text>
             </mj-column>
@@ -78,31 +79,31 @@
                 <mj-text>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Банкротство</a>
+                        <a href="https://lextorium.com/courses/?tag=bankruptcy" class="link">Банкротство</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Обязательства</a>
+                        <a href="https://lextorium.com/courses/?tag=liabilities" class="link">Обязательства</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Вещное право</a>
+                        <a href="https://lextorium.com/courses/?tag=property-law" class="link">Вещное право</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Корпоративное право</a>
+                        <a href="https://lextorium.com/courses/?tag=corporative-law" class="link">Корпоративное право</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Общая часть ГК</a>
+                        <a href="https://lextorium.com/courses/?tag=gk-common" class="link">Общая часть ГК</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Сделки</a>
+                        <a href="https://lextorium.com/courses/?tag=sdelki" class="link">Сделки</a>
                     </p>
                     <p class="paragraph">
                     <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                    <a href="#" class="link">Аренда</a>
+                    <a href="https://lextorium.com/courses/?tag=rent" class="link">Аренда</a>
                 </p>
                 </mj-text>
             </mj-column>
@@ -110,27 +111,27 @@
                 <mj-text>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Обеспечение</a>
+                        <a href="https://lextorium.com/courses/?tag=obespechenie" class="link">Обеспечение</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Ответственность</a>
+                        <a href="https://lextorium.com/courses/?tag=otvetstvennost" class="link">Ответственность</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Добросовестность</a>
+                        <a href="https://lextorium.com/courses/?tag=dobrosovestnost" class="link">Добросовестность</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Поэтажная собственность</a>
+                        <a href="https://lextorium.com/courses/?tag=poetazhnaya-sobstvennost" class="link">Поэтажная собственность</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Исковая давность</a>
+                        <a href="https://lextorium.com/courses/?tag=limitation-of-actions" class="link">Исковая давность</a>
                     </p>
                     <p class="paragraph">
                         <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
-                        <a href="#" class="link">Обязательственное право</a>
+                        <a href="https://lextorium.com/courses/?tag=%20obligatory-law" class="link">Обязательственное право</a>
                     </p>
                 </mj-text>
             </mj-column>
@@ -141,11 +142,11 @@
                 <mj-text>
                     <p class="paragraph">
                         <i>
-                            С уважением, команда {$_modx->config.site_name}!
-
+                            До скорой встречи, команда {$_modx->config.site_name}!
                         </i>
                     </p>
                 </mj-text>
+                <mj-image src="https://funkyimg.com/i/37a91.jpg" alt="Просто так"/>
             </mj-column>
         </mj-section>
         <mj-include path="prototypes/footer.mjml" />

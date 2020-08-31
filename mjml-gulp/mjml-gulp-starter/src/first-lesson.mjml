@@ -1,0 +1,153 @@
+<mjml>
+    <mj-head>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-preview>Если знания - то Lextorium!</mj-preview>
+        <mj-title>Введение в банкротство</mj-title>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="prototypes/header.mjml"/>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/37a9S.jpg" background-repeat="no-repeat"
+                    background-size="cover">
+            <mj-column width="100%" padding="30px">
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
+                    Введение в банкротство
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p class="paragraph">
+                        Завтра в 10:00 МСК начнется первое занятие курса <a href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">Введение в банкротство.</a>
+
+                    </p>
+                    <p class="paragraph">
+                        На странице трансляции уже размещены материалы к курсу, с которыми мы настоятельно рекомендуем Вам ознакомиться до начала курса.
+                        <br>
+                        Для того, чтобы попасть на страницу трансляции и ознакомиться с материалами к курсу, Вам необходимо:                    </p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">1. </span><a href="https://lextorium.com/signin.html"
+                                                   class="link">Авторизоваться на сайте</a> со старым логином и паролем
+                    </p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">2. </span>Если не помните свой
+                        пароль, просто восстановите его <a href="https://lextorium.com/password-recovery.html"
+                                                           class="link">через форму</a>.
+                    </p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">3. </span>
+                        Далее необходимо зайти в личный кабинет и, затем, в "Мои курсы"
+                    </p>
+                    <p></p>
+                    <img src="https://funkyimg.com/i/35pDj.jpg" alt="">
+                    <p></p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">4. </span>
+                        Перейти на страницу курса "Введение в банкротство"
+                    </p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">5. </span>
+                        Не забудьте, пожалуйста, обновить информацию о себе в профиле. Это поможет в дальнейшем
+                        избежать сложностей с входом на сайт.
+                    </p>
+                    <p class="paragraph">
+                         <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">6. </span>
+                        Если вы еще не задали вопрос спикерам по теме завтрашнего занятия, то вы можете сделать это сейчас по ссылке ниже или на странице курса под материалами.
+                    </p>
+                    <p class="paragraph">
+                        <a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSedVIOE7rHdnJOhsNcnTnA4eewrNGmOjoP1hW8-tUhSpoC2pA/viewform" style="font-weight:bold;" class="link">
+                            Задать вопрос →
+                        </a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-top="20px">
+            <mj-column padding="0">
+                <mj-text padding="0">
+                    <p class="paragraph" style="border-left: 3px solid #ffd44c; padding-top: 0;">
+                        <b>Обратите внимание!</b> <br>
+                        Трансляция будет проводиться на странице курса. Чат и видео автоматически появятся на
+                        странице в 10:00. Обновлять страницу для этого не потребуется. <br>
+                        Вам нужно только перейти на страницу курса в назначенное время и ожидать начала трансляции
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-left="0">
+            <mj-column width="100%">
+                <mj-text>
+                   <p class="paragraph">
+                       <b>
+                           Технические требования для участия в трансляции
+                       </b>
+                   </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">1. </span>
+                        Для участия в онлайн-трансляции курса, настоятельно рекомендуем вам использовать компьютер или ноутбук, а не мобильное устройство.
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">2. </span>
+                        Требуется последняя версия браузера Google Chrome, Firefox, Internet Explorer, Safari или Opera.
+                    </p>
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                        font-size: 28px; font-weight:bold;">3. </span>
+                        Интернет-подключение со скоростью не меньше 1000 Кбит/с <br>
+                        (<a class="link" href="https://yandex.ru/internet/">измерить скорость подключения</a>)</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text>
+                    <p class="paragraph">
+                        По техническим вопросам, пожалуйста, пишите:
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        на почту:
+                        <a href="mailto:info@lextorium.com" class="link">info@lextorium.com</a>
+                    </p>
+                    <p class="paragraph">
+                        <span><img src="https://funkyimg.com/i/33wVV.png" alt=""></span>
+                        в Skype:
+                        <a href="skype:quotzon?call" class="link">quotzon</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        Обращаем Ваше внимание, что по ссылке возможен просмотр только с одного устройства. При попытке использования ссылки на другом устройстве система автоматически закроет предыдущие сессии.
+                    </p>
+                    <p> </p>
+                    <p style="text-align: center; font-size: 23px; font-family: Arial, sans-serif;">
+                        Ждем Вас на трансляции завтра в 10:00!
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="prototypes/footer.mjml" />
+    </mj-body>
+</mjml>
