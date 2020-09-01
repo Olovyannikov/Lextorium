@@ -34,7 +34,6 @@
 
     .mailing {
       display: flex;
-      flex-wrap: wrap;
     }
 
     .mailing__list {
@@ -66,22 +65,18 @@
     .mailing__list-link:hover {
       color: darksalmon;
       border-bottom: 2px solid #ffd44c;
-      padding-bottom: 5px;
     }
 
     .technical-letters {
       width: 50%;
     }
-    
-    .technical-letters__heading {
-      text-align: center;
-    }
+
     details {
-      min-width: 50%;
+      width: 280px;
       margin-bottom: 20px;
     }
     summary {
-
+      cursor: pointer;
       outline: none;
     }
 
@@ -92,14 +87,15 @@
     }
 
     .wrapper {
-      order: 1;
+      order: 0;
+      width: 50%;
     }
   </style>
 </head>
 <body>
 <section class="mailing container">
-      <h1 class="mailing__heading">Рассылки Lextorium.com</h1>
   <div class="wrapper">
+    <h1 class="mailing__heading">Рассылки Lextorium.com</h1>
   <details>
     <summary>
       Август
@@ -171,6 +167,20 @@
             <a href="../bulding/0109.html" target="_blank" class="mailing__list-link">
               Финансовое обнуление: есть у Вас на это 5 причин?
             </a>
+          </li>
+        </ul>
+      </div>
+      <div class="mailing__wrapper">
+        <h3 class="mailin__list-heading">Рассылка на 02.09.2020</h3>
+        <ul class="mailing__list">
+          <li class="mailing__list-item">
+            <a href="0209.html" target="_blank" class="mailing__list-link">
+              Оспаривание сделок при СО. Ваше приглашение в партер.
+            </a>
+          </li>
+          <li class="mailing__list-item">
+            <a href="0209-second.html" target="_blank" class="mailing__list-link">
+              Что особенного в сделках с предпочтением?            </a>
           </li>
         </ul>
       </div>
