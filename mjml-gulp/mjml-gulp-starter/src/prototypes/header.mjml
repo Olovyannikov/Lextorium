@@ -11,7 +11,7 @@
     <mj-column width="250px">
         <mj-text width="100%" align="center">
             <a href="https://lextorium.com">
-                <img src="https://funkyimg.com/i/34bDj.png" alt="Lextorium logo"
+                <img src="https://raw.githubusercontent.com/Olovyannikov/Lextorium/master/mjml-gulp/mjml-gulp-starter/src/img/logo.png" alt="Lextorium logo"
                      align="center"
                      width="214px"
                      padding="10px 0 0 0"></a></mj-text>
