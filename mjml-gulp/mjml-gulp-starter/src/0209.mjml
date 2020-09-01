@@ -51,7 +51,7 @@
             <mj-spacer height="40px"></mj-spacer>
         </mj-section>
 
-        <mj-section mj-class="container" padding-left="0"> 
+        <mj-section mj-class="container" padding-left="0">
             <mj-column width="100%">
                 <mj-text padding-left="0">
                     <p class="paragraph">
