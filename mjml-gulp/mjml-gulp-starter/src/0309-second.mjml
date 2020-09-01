@@ -1,0 +1,65 @@
+<mjml>
+    <mj-head>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-preview>Если знания - то Lextorium!</mj-preview>
+        <mj-title>Оспаривание сделок при СО. Ваше приглашение в партер.
+        </mj-title>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="prototypes/header.mjml"/>
+        <mj-section width="600px" background-url="https://i.ibb.co/QvPntpj/1.jpg" background-repeat="no-repeat"
+                    background-size="cover">
+            <mj-column width="100%" padding="30px">
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
+                    Оспаривание сделок при СО. Ваше приглашение в партер.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                    <p class="paragraph">
+                        Речь идет о разработанных  Международной Федерацией Инженеров Консультантов типовых формах основных договоров, используемых в строительной сфере. Для удобства и краткости за ними закрепились такие названия: Красная книга, Желтая книга, Оранжевая книга, Белая книга, Зеленая книга, Серебряная книга, Изумрудная книга и Золотая книга.                    </p>
+                    <p class="paragraph">
+                        Стоит отметить, что ФИДИК удалось не только провести значительную работу по систематизации договорных форм,  но и привнести некоторый шарм в такую обстоятельную и серьезную отрасль, как капитальное строительство.
+
+                    </p>
+                    <p class="paragraph">
+                        Что Вы теряете, если думаете, что все это не обязательно знать российскому юристу?
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="container">
+            <mj-spacer height="30px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a href="https://lextorium.com/news/tsvet-stroitelstva-oranzh,-serebro,-izumrud.-proformy-dogovorov.html" class="button">
+                        Узнать                    </a>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+
+        <mj-section mj-class="container" padding-left="0">
+            <mj-column width="100%">
+                <mj-text padding-left="0">
+                    <p class="paragraph">
+                        <i>
+                            Пройдите свой путь через тернии теории к звездам практики с Lextorium!
+                        </i>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="prototypes/footer.mjml" />
+    </mj-body>
+</mjml>
