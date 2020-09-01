@@ -17,7 +17,7 @@
                 <mj-text align="left" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
                          font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
-                    Зачем нужны проформы в строительном подряде? 
+                    Зачем нужны проформы в строительном подряде?
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -49,6 +49,45 @@
                 </mj-text>
             </mj-column>
             <mj-spacer height="40px"></mj-spacer>
+        </mj-section>
+
+        <mj-section mj-class="container" font-family="Arial, sans-serif">
+            <mj-column width="100%">
+                <mj-text font-family="Arial, sans-serif">
+                    <p style="font-size: 18px; padding-bottom: 10px;"><b>Хотите знать больше?</b></p>
+                    <p style="font-size: 16px;">
+                        Совсем скоро стартует новый курс:
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" border-left="2px solid #ffd44c" font-family="Arial, sans-serif">
+                <mj-text font-family="Arial, sans-serif">
+                    <p style="margin: 0; padding-bottom: 10px; padding-left: 15px;"><a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold;"
+                                                                                       href="https://lextorium.com/courses/vebinary/dogovor-stroitelnogo-podryada-problemy-teorii-i-praktiki.html">
+                        Договор строительного подряда: проблемы теории и практики
+                    </a></p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;">
+                        <b>Спикеры: </b> Андрей Егоров, Таир Сулейманов, Родион Филиппов, Владимир Липавский
+                    </p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Начало: </b>
+                        26 сентября
+                    </p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Формат
+                        участия: </b>онлайн + запись курса</p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;"><b>Стоимость:
+                    </b>от 17 900</p>
+                    <p style="margin: 0;  padding-left: 15px;font-size: 16px;">После окончания курса возможно получить удостоверение о повышении квалификации</p>
+                </mj-text>
+            </mj-column>
+            <mj-spacer height="40px"></mj-spacer>
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <a
+                            href="https://lextorium.com/courses/vebinary/dogovor-stroitelnogo-podryada-problemy-teorii-i-praktiki.html" class="button">Подробнее о курсе</a>
+
+                </mj-text>
+            </mj-column>
         </mj-section>
 
         <mj-section mj-class="container" padding-left="0">
