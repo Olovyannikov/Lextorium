@@ -1,17 +1,17 @@
 <mj-section>
     <mj-column mj-class="container">
         <mj-social font-size="15px" icon-size="50px" mode="horizontal" padding-bottom="10px">
-            <mj-social-element padding="10px" src="https://funkyimg.com/i/33vjZ.png"
+            <mj-social-element padding="10px" src="https://github.com/Olovyannikov/Lextorium/blob/master/mjml-gulp/mjml-gulp-starter/src/img/fb.png?raw=true"
                                href="https://www.facebook.com/lextorium.ru/">
 
             </mj-social-element>
-            <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vk2.png" href="https://www.instagram.com/lextorium/?hl=ru">
+            <mj-social-element padding="10px"  src="https://github.com/Olovyannikov/Lextorium/blob/master/mjml-gulp/mjml-gulp-starter/src/img/in.png?raw=true" href="https://www.instagram.com/lextorium/?hl=ru">
 
             </mj-social-element>
-            <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkQ.png" href="https://vk.com/lextorium">
+            <mj-social-element padding="10px"  src="https://github.com/Olovyannikov/Lextorium/blob/master/mjml-gulp/mjml-gulp-starter/src/img/vk.png?raw=true" href="https://vk.com/lextorium">
 
             </mj-social-element>
-            <mj-social-element padding="10px"  src="https://funkyimg.com/i/33vkg.png" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
+            <mj-social-element padding="10px"  src="https://github.com/Olovyannikov/Lextorium/blob/master/mjml-gulp/mjml-gulp-starter/src/img/yb.png?raw=true" href="https://www.youtube.com/channel/UChB6vfEYCsBxEd38OUCwFxw">
 
             </mj-social-element>
         </mj-social>

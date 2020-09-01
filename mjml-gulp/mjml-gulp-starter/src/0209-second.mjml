@@ -54,7 +54,7 @@
         <mj-section mj-class="container" padding-left="0">
             <mj-column width="100%">
                 <mj-text padding-left="0">
-                    <p class="paragraph">
+                    <p class="paragraph"> 
                         <i>
                             {{First_name|Коллега}}, пусть ваш день сложится удачно! <br/>
                             Команда Lextorium
