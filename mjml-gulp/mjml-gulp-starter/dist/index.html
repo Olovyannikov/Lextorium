@@ -79,6 +79,12 @@
       cursor: pointer;
       outline: none;
     }
+    summary:hover {
+      font-style: italic;
+    }
+    summary:focus {
+      outline: 1px solid #ffd44c;
+    }
 
     @media (max-width: 1000px) {
       .mailing {
@@ -198,6 +204,16 @@
           </li>
         </ul>
       </div>
+      <div class="mailing__wrapper">
+        <h3 class="mailin__list-heading">Рассылка на 07.09.2020</h3>
+        <ul class="mailing__list">
+          <li class="mailing__list-item">
+            <a href="0709.html" target="_blank" class="mailing__list-link">
+              “Апельсин” долевой собственности.
+            </a>
+          </li>
+        </ul>
+      </div>
     </details>
 
   </div>
@@ -207,15 +223,18 @@
       <ul class="mailing__list">
         <li class="mailing__list-item">
           <a href="tech/mailcheck.html" target="_blank" class="mailing__list-link">
-            Подтвердите Ваш email</a>
+            Подтвердите Ваш email
+          </a>
         </li>
-      </ul>
-    </div>
-    <div class="mailing__wrapper">
-      <ul class="mailing__list">
         <li class="mailing__list-item">
           <a href="tech/password.html" target="_blank" class="mailing__list-link">
-            Восстановление пароля</a>
+            Восстановление пароля
+          </a>
+        </li>
+        <li class="mailing__list-item">
+          <a href="tech/password.html" target="_blank" class="mailing__list-link">
+            Следующий
+          </a>
         </li>
       </ul>
     </div>
