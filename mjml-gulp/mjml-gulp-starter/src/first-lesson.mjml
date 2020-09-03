@@ -2,7 +2,8 @@
     <mj-head>
         <mj-include path="prototypes/head.mjml"/>
         <mj-preview>Если знания - то Lextorium!</mj-preview>
-        <mj-title>Введение в банкротство</mj-title>
+        <mj-title> Скоро начнется трансляция курса {$pagetitle}
+        </mj-title>
     </mj-head>
     <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
@@ -14,7 +15,7 @@
                 <mj-text align="left" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
                          font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
-                    Введение в банкротство
+                    Скоро начнется трансляция курса {$pagetitle}
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -22,19 +23,13 @@
             <mj-column width="100%">
                 <mj-text align="center">
                     <p class="paragraph">
-                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                        <span style="text-transform: capitalize;">{$fullname}</span>, здравствуйте!
                     </p>
                     <p class="paragraph">
-                        Завтра в 10:00 МСК начнется первое занятие курса <a
-                         class="link"
-                         href="https://lextorium.com/courses/vebinary/vvedenie-v-bankrotstvo.html">Введение в
-                        банкротство.</a>
-
+                        Напоминаем, что завтра/через час/через 15 минут начало трансляции курса {$pagetitle}.
                     </p>
                     <p class="paragraph">
-                        На странице трансляции уже размещены материалы к курсу, с которыми мы настоятельно рекомендуем Вам ознакомиться до начала курса.
-                        <br>
-                        Для того, чтобы попасть на страницу трансляции и ознакомиться с материалами к курсу, Вам необходимо:                    </p>
+                        Для того, чтобы попасть на страницу трансляции, Вам необходимо:                        <br>
                     <p class="paragraph">
                          <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
                                                  font-size: 28px; font-weight:bold;">1. </span><a href="https://lextorium.com/signin.html"
@@ -146,11 +141,23 @@
                     </p>
                     <p> </p>
                     <p style="text-align: center; font-size: 23px; font-family: Arial, sans-serif;">
-                        Ждем Вас на трансляции завтра в 10:00!
+                        Ждем Вас на странице трансляции!
                     </p>
                 </mj-text>
             </mj-column>
         </mj-section>
+        <mj-section mj-class="container" padding-left="0">
+            <mj-column width="100%">
+                <mj-text padding-left="0">
+                    <p class="paragraph">
+                        <i style="font-family: Comfortaa, Arial, sans-serif">
+                            С уважением, команда {$_modx->config.site_name}!
+                        </i>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px"></mj-spacer>
         <mj-include path="prototypes/footer.mjml" />
     </mj-body>
 </mjml>
