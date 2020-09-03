@@ -35,7 +35,7 @@
                     <p class="paragraph">
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
-                    <p class="paragraph" style="font-weight:bold; text-align:left;">
+                    <p class="paragraph" style="font-weight:bold; text-align:center;">
                         ТРИ ТЕМЫ В ТРЕНДЕ ПРЕДСТОЯЩЕГО СЕЗОНА ОСЕНЬ-ЗИМА 20/21:
                     <p class="paragraph" style="text-align:center;">
                     <b>банкротство <br><br>
@@ -247,7 +247,7 @@
                 <mj-text padding-left="0">
                     <p class="paragraph">
                         <i style="font-family: Comfortaa, Arial, sans-serif">
-                            Хороших Вам выходных!<br>
+                            Хороших Вам продуктивного дня!<br>
                             Команда  Lextorium!                      </i>
                     </p>
                 </mj-text>
