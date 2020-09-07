@@ -21,6 +21,9 @@
             .adaptive {
             text-align: center;
             }
+            .text-size {
+                font-size: 18px!important;
+            }
             }
         </mj-style>
     </mj-head>
@@ -178,7 +181,7 @@
         <mj-column width="100%">
             <mj-text align="center">
                 <a
-                        href="https://lextorium.com/courses/vebinary/subsidiarnaya-otvetstvennost-trendy-sudebnoy-praktiki-2020.html" class="button">Зарегистрироваться на вебинар</a>
+                        href="https://lextorium.com/courses/vebinary/subsidiarnaya-otvetstvennost-trendy-sudebnoy-praktiki-2020.html" class="button text-size">Зарегистрироваться на вебинар</a>
 
             </mj-text>
         </mj-column>
