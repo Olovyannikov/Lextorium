@@ -52,81 +52,8 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-        <mj-section>
-         <mj-column>
-            <mj-text>
-                 <p class="paragraph">
-        После просмотра вебинара Вы будете разбираться в пяти ключевых кейсах по субсидиарной ответственности, рассмотренных Верховным Судом РФ в 2020 году, которые получили наибольший отклик среди бенефициаров и членов профессионального юридического сообщества и, несомненно, повлияли на формирование судебной практики по субсидиарной ответственности:
-                 </p>
-             </mj-text>
-           </mj-column>
-        </mj-section>
+
         <mj-spacer height="20px"></mj-spacer>
-
-<mj-section padding="20px" background-color="#ffffff">
-            <mj-column background-color="#dededd">
-                <mj-accordion>
-                    <mj-accordion-element>
-                        <mj-accordion-title font-weight="bold">
-                        1. Определение Верховного Суда РФ от 22.06.2020 по
-                            делу о
-                            банкротстве АО «Тепло-учет»</mj-accordion-title>
-                        <mj-accordion-text>
-              <span style="line-height:20px">
-доведение должника до банкротства путем одобрения членами совета директоров подозрительной сделки              </span>
-                        </mj-accordion-text>
-                    </mj-accordion-element>
-                    <mj-accordion-element>
-                        <mj-accordion-title>
-                        2. Определение Верховного Суда РФ от 03.07.2020 по делу о банкротстве ООО «ДИС»
-                        </mj-accordion-title>
-                        <mj-accordion-text>
-              <span style="line-height:20px">
-о зачетном характере требований о привлечении к субсидиарной ответственности и о возмещении ущерба, причиненного преступлением              </span>
-                        </mj-accordion-text>
-                    </mj-accordion-element>
-                    <mj-accordion-element>
-                        <mj-accordion-title>
-                            3. Определение Верховного Суда РФ от 24.08.2020 по делу о банкротстве ООО «Ключ»
-                        </mj-accordion-title>
-                        <mj-accordion-text>
-              <span style="line-height:20px">
-об установлении фактического руководителя и неформальной подконтрольности
-              </span>
-                        </mj-accordion-text>
-                    </mj-accordion-element>
-                    <mj-accordion-element>
-                        <mj-accordion-title>
-                            4. Определения Верховного Суда РФ от 25.08.2020 по делу о банкротстве ООО «Гранд Пегас» и от 30.01.2020 по делу о банкротстве ООО «Виолет»
-                        </mj-accordion-title>
-                        <mj-accordion-text>
-              <span style="line-height:20px">
-о субсидиарной ответственности при административном исключении должника из ЕГРЮЛ             </span>
-                        </mj-accordion-text>
-                    </mj-accordion-element>
-                    <mj-accordion-element>
-                        <mj-accordion-title>
-                        5. Определение Верховного Суда РФ от 31.08.2020 по делу о банкротстве ООО
-                            «Товары будущего»
-                            </mj-accordion-title>
-                        <mj-accordion-text>
-              <span style="line-height:20px">
-установленные законом сроки для определения статуса контролирующего должника лица не являются пресекательными              </span>
-                        </mj-accordion-text>
-                    </mj-accordion-element>
-                </mj-accordion>
-            </mj-column>
-        </mj-section>
-
-        <mj-section>
-            <mj-column>
-                <mj-text align="center">
-                       <a
-                            href="#" class="button text-size">Смотреть запись вебинара</a>
-  
-                </mj-text>
-            </mj-column>
-        </mj-section>
 
         <mj-section>
             <mj-column>
@@ -138,18 +65,7 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-
-        <mj-section mj-class="container" font-family="Arial, sans-serif">
-            <mj-column width="100%">
-                <mj-text font-family="Arial, sans-serif">
-                    <p style="font-size: 18px; padding-bottom: 10px;"><b>Хотите знать больше?</b></p>
-                    <p style="font-size: 16px;">
-                        Совсем скоро стартует курс:
-                    </p>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-
+        <mj-spacer height="20px"></mj-spacer>
                 <mj-section padding-left="20px">
             <mj-column width="100%" border-left="2px solid #ffd44c">
                 <mj-text>
@@ -173,15 +89,57 @@
             </mj-column>
         </mj-section>
 
-        <mj-spacer height="20px"></mj-spacer>
-
         <mj-section>
             <mj-column>
                 <mj-text>
                 <p class="paragraph">
-                    В рамках этого курса Вы получите полное представление об институте субсидиарной ответственности, его правовой природе, видах, контролирующих должника лицах, сроках привлечения к ответственности, действии закона во времени, порядке рассмотрения заявлений арбитражным судом и распоряжении правом требования о привлечении к субсидиарной ответственности, а также найдете ответы на самые актуальные вопросы судебной практики по этой тематике.<br/><br/>
-Этот курс будет полезен как руководителям и бенефициарам компаний в целях освобождения от субсидиарной ответственности, так и кредиторам и арбитражным управляющим для привлечения к ответственности контролирующих должника лиц. Именно этот курс позволит практикующим банкротным юристам взыскать или исключить взыскание с них многомиллионных долгов компании - должника.<br/><br/>
-Ознакомиться с программой курса и приобрести его по сниженной стоимости можно здесь:
+                    В рамках этого курса Вы получите полное
+                     представление об институте субсидиарной
+                      ответственности, его правовой природе, видах,
+                       контролирующих должника лицах, сроках
+                        привлечения к ответственности, действии закона 
+                        во времени, порядке рассмотрения заявлений
+                         арбитражным судом и распоряжении правом 
+                         требования о привлечении к субсидиарной
+                          ответственности, а также найдете ответы на самые 
+                          актуальные вопросы судебной практики по этой тематике.
+ </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px"></mj-spacer>
+
+                <mj-section mj-class="container">
+            <mj-column border="2px dashed #ffd44c">
+                <mj-text>
+                <p class="paragraph" >
+                    Этот курс будет полезен:
+                    <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">1. </span>
+                                                 Руководителям и бенефициарам компаний в целях освобождения от субсидиарной ответственности
+                    </p>
+
+                     <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">2. </span>
+Кредиторам и арбитражным управляющим для привлечения к ответственности контролирующих должника лиц                    </p>
+
+                     <p class="paragraph">
+                        <span style="font-family: 'Book Antiqua', 'Times New Roman', serif; color: #ffd44c;
+                                                 font-size: 28px; font-weight:bold;">3. </span>
+Практикующим банкротным юристам, чтобы взыскать или исключить взыскание с них многомиллионных долгов компании - должника                    </p>
+
+                </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                <p class="paragraph">
+                    Ознакомиться с программой курса и приобрести его по сниженной стоимости можно здесь:
                 </p>
                 </mj-text>
             </mj-column>
@@ -198,37 +156,6 @@
         </mj-section>
 
         <mj-spacer height="20px"></mj-spacer>
-        <mj-section>
-            <mj-column>
-                <mj-text>
-                <p class="paragraph" style="background-color:#e5e5e5;">
-                <b>На странице курса Вас ждут подарки!</b><br/><br/>
-Это статья Андрея Егорова, Юлии Михальчук и Алексея Николаева «Единственная более-менее разумная рекомендация: как только директор понимает, что корабль начинает тонуть, – сразу бежать в суд и подавать заявление о банкротстве...», опубликованная в журнале РШЧП в выпуске №2 (март-апрель) 2020.
-<br/><br/>А также мы открыли доступ к одному из фрагментов лекции Андрея Егорова и Олега Зайцева, посвященной разнице между ответственностью за неподачу о заявления о банкротстве и ответственностью за доведение до банкротства, из курса «Субсидиарная ответственность при банкротстве: состояние судебной практики после Закона от 27.7.2017 №266-ФЗ».
-                <br/><br/>
-                </p>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-
-        <mj-section>
-            <mj-column> 
-                <mj-text>
-                <p class="paragraph">
-                    Полный доступ к указанному прошедшему курсу входит в стоимость курса по субсидиарной ответственности, который стартует 15 сентября 2020 года.
-                </mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-section>
-            <mj-column>
-                <mj-text align="center">
-                      <a href="https://lextorium.com/courses/vebinary/aktualnye-problemy-subsidiarnoy-otvetstvennosti-lits.html" class="button text-size">
-                      Стать слушателем курса
-                      </a>
-                </mj-text>
-            </mj-column>
-        </mj-section>
 
         <mj-section mj-class="container" padding-left="0">
             <mj-column width="100%">

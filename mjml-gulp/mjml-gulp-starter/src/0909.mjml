@@ -1,0 +1,112 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-accordion border="none" padding="1px" />
+            <mj-accordion-element icon-wrapped-url="https://i.imgur.com/Xvw0vjq.png" icon-unwrapped-url="https://i.imgur.com/KKHenWa.png" icon-height="24px" icon-width="24px" />
+            <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff"
+                                color="#031017" padding="15px" font-size="18px" font-weight="bold" />
+            <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+        </mj-attributes>
+        <mj-include path="prototypes/head.mjml"/>
+        <mj-font name="Comfortaa"
+                 href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap"></mj-font>
+        <mj-preview>
+            Если знания - то Lextorium!&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+        </mj-preview>
+        <mj-title>
+Как не потерять 390 миллионов рублей на стройке?
+    </mj-title>
+            <mj-style>
+            @media (max-width: 480px) {
+            .adaptive {
+            text-align: center;
+            }
+            .text-size {
+                font-size: 18px!important;
+            }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#ffffff">
+        <mj-include path="prototypes/header.mjml"/>
+        <mj-section width="600px" background-url="https://funkyimg.com/i/37grE.jpg" background-repeat="no-repeat"
+                    background-size="cover">
+            <mj-column width="100%" padding="30px">
+            </mj-column>
+            <mj-column width="100%" vertical-align="bottom">
+                <mj-text align="left" color="#ffffff" line-height="46px"
+                         font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+                         font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
+Как не потерять 390 миллионов рублей на стройке?                         </mj-text>
+                                    </mj-column>
+        </mj-section>
+        <mj-section mj-class="container" padding-top="20px" padding-left="0">
+            <mj-column width="100%">
+                <mj-text align="center">
+                    <p class="paragraph">
+                        <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section> 
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                <p class="paragraph">
+                    Сегодня  во всем мире отмечают праздник - Международный день красоты. И мы Вас поздравляем! 
+                </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-section>
+            <mj-column padding-left="20px" padding-right="20px">
+                <mj-text>
+                <p class="paragraph" style="background-color: #f2f2f2; border: 2px dashed #ffd44c; padding-bottom: 20px;">
+Известный  авиаконструктор А. Н. Туполев сказал:
+“Некрасивые самолеты не летают”.                
+</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                <p class="paragraph">
+Красота важна во всем, и в юридических документах, и в авиа, и в наземном строительстве. Стандарты ее во все времена различны, но гармония приветствуется всегда! А красивые выверенные юридические конструкции послужат прекрасным практическим инструментом для любого юриста.
+                </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-section padding-left="20px">
+            <mj-column width="100%" border-left="2px solid #ffd44c" font-family="Arial, sans-serif">
+                <mj-text font-family="Arial, sans-serif">
+                    <p style="margin: 0; padding-bottom: 10px; padding-left: 15px;"><a style="color: #93bf3d; font-size: 18px;
+                    font-weight:bold;"
+                                                                                       href="https://lextorium.com/courses/vebinary/subsidiarnaya-otvetstvennost-trendy-sudebnoy-praktiki-2020.html">
+Кейс “Красивый юридический полет”:
+как сэкономить для клиента 390 миллионов рублей?                    </a></p>
+                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;">
+                    <a class="link" href="#"><b>ПОДРОБНОСТИ</b></a> за 5 минут
+                    </p>
+                    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <p class="paragraph">
+                    <i>
+                    {{First_name|Коллега}}, пусть Ваш день сложится удачно!
+                    Команда Lextorium
+                    </i>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-include path="prototypes/footer.mjml" />
+    </mj-body>
+</mjml>
