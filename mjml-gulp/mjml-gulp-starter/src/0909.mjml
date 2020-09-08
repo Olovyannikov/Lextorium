@@ -61,9 +61,9 @@
         <mj-spacer height="20px"></mj-spacer>
         <mj-section>
             <mj-column padding-left="20px" padding-right="20px">
-                <mj-text>
-                <p class="paragraph" style="background-color: #f2f2f2; border: 2px dashed #ffd44c; padding-bottom: 20px;">
-Известный  авиаконструктор А. Н. Туполев сказал:
+                <mj-text align="center">
+                <p class="paragraph" style="background-color: #ffdd4c; border: 2px dashed #ffd44c; border-radius:20px; padding-bottom: 20px; text-align: center;">
+Известный  авиаконструктор А. Н. Туполев сказал: <br/>
 “Некрасивые самолеты не летают”.                
 </p>
                 </mj-text>
@@ -81,15 +81,13 @@
         </mj-section>
         <mj-spacer height="20px"></mj-spacer>
         <mj-section padding-left="20px">
-            <mj-column width="100%" border-left="2px solid #ffd44c" font-family="Arial, sans-serif">
-                <mj-text font-family="Arial, sans-serif">
-                    <p style="margin: 0; padding-bottom: 10px; padding-left: 15px;"><a style="color: #93bf3d; font-size: 18px;
-                    font-weight:bold;"
-                                                                                       href="https://lextorium.com/news/ostorozhno-moesk-vnedogovornoe-potreblenie-elektroenergii-pri-vozvedenii-obektov-kapitalnogo-stroitelstva.html">
-Кейс “Красивый юридический полет”:
+            <mj-column width="100%"  font-family="Arial, sans-serif">
+                <mj-text font-family="Arial, sans-serif" align="center">
+                    <p class="paragraph" style="text-align: center; font-weight: bold;">
+Кейс “Красивый юридический полет”: <br/>
 как сэкономить для клиента 390 миллионов рублей?                    </a></p>
-                    <p style="margin: 0; padding-bottom: 10px;  padding-left: 15px;font-size: 16px;">
-                    <a class="link" href="https://lextorium.com/news/ostorozhno-moesk-vnedogovornoe-potreblenie-elektroenergii-pri-vozvedenii-obektov-kapitalnogo-stroitelstva.html"><b>ПОДРОБНОСТИ</b></a> за 5 минут
+                    <p >
+                    <a class="button" href="https://lextorium.com/news/ostorozhno-moesk-vnedogovornoe-potreblenie-elektroenergii-pri-vozvedenii-obektov-kapitalnogo-stroitelstva.html">ПОДРОБНОСТИ за 5 минут</a>
                     </p>
                     
                 </mj-text>
@@ -100,7 +98,7 @@
                 <mj-text>
                     <p class="paragraph">
                     <i>
-                    {{First_name|Коллега}}, пусть Ваш день сложится удачно!
+                    {{First_name|Коллега}}, пусть Ваш день сложится удачно! <br/>
                     Команда Lextorium
                     </i>
                     </p>
