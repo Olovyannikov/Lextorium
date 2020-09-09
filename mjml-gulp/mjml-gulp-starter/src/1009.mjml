@@ -31,9 +31,9 @@
 Вы согласны со знаменитым физиком, что слово “успех” уже давно порядком себя дискредитировало? А нам его все продают и продают… 
                     </p>
 
-                    <p class="paragraph" style="background-color: #f2f2f2; border: 2px dashed #ffdc44; border-radius: 20px; padding: 20px; margin: 10px;">
+                    <p class="paragraph" style="background-color: #ffdc44; border: 2px dashed #ffdc44; border-radius: 20px; padding: 20px; margin: 10px; text-align:center;">
 Стремись не к тому, чтобы добиться успеха, а к тому, чтобы твоя жизнь имела смысл. <br/>
-    <cite style='text-align: right; display:block'>Альберт Эйнштейн</cite>
+    <cite style='text-align: center; display:block'>Альберт Эйнштейн</cite>
                     </p>
                     <p class="paragraph">
  Федеральным законом от 29.07.2017 No 266-ФЗ срок исковой давности привлечения КДЛ к субсидиарной ответственности в банкротстве был увеличен с одного года до трех лет. После чего в судебной практике не было единства,  о том какую редакцию  ЗоБ нужно применять.
@@ -47,20 +47,20 @@
 
         <mj-section mj-class="container">
             <mj-column width="100%">
-                <mj-text align="left">
-                    <p class="paragraph" style="padding: 0;">
-                    Своими выводами поделиться исследователь данного вопроса:
+                <mj-text align="center">
+                    <p class="paragraph" style="padding: 0; text-align: center">
+                    Своими выводами поделится исследователь данного вопроса:
                     </p>
                 </mj-text>
             </mj-column>
         </mj-section>
-        
+
         <mj-spacer height="20px"></mj-spacer>
 
         <mj-section>
             <mj-column>
                 <mj-text align="center">
-                <a href="https://lextorium.com/news/privlech-k-subsidiarnoy-otvetstvennosti-kdl-tochki-na-karte-iskovoy-davnosti.html" class="button">Найти смысл</a>
+                <a href="https://lextorium.com/news/privlech-k-subsidiarnoy-otvetstvennosti-kdl-tochki-na-karte-iskovoy-davnosti.html" class="button" style="background-color: #9d2847; border-color: #9d2847">Найти смысл</a>
                 </mj-text>
             </mj-column>
         </mj-section>
