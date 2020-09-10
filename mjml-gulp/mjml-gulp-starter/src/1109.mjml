@@ -14,7 +14,7 @@
             <mj-column width="100%" padding="30px">
             </mj-column>
             <mj-column width="100%" vertical-align="bottom">
-                <mj-text align="left" color="#ffffff" line-height="46px"
+                <mj-text align="center" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
                          font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
                     Банкрут - крут? Должник платит, но недостаточно.
@@ -25,7 +25,7 @@
         <mj-section mj-class="container" padding-top="20px" padding-left="0">
             <mj-column width="100%">
                 <mj-text align="center">
-                    <p class="paragraph">
+                    <p class="paragraph" style="text-align: center">
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
                     <p class="paragraph">
@@ -34,7 +34,7 @@
 
                     <p class="paragraph">
                     Знакомая Вам картина: <br/>
-                    Должник  ускользает, используя различные трюки. И делает это настолько виртуозно, что Вы даже не можете ввести его в статус банкрота?
+                    должник  ускользает, используя различные трюки. И делает это настолько виртуозно, что Вы даже не можете ввести его в статус банкрота?
 
                     </p>
                 </mj-text>
@@ -72,7 +72,7 @@
                 <mj-text padding-left="0">
                     <p class="paragraph">
                         <i>
-                            {{First_name|Коллега}}, пусть ваш день сложится удачно! <br/>
+                            Пусть ваш день сложится удачно! <br/>
                             Команда Lextorium
                         </i>
                     </p>
