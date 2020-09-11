@@ -15,7 +15,7 @@
             <mj-column width="100%" padding="30px">
             </mj-column>
             <mj-column width="100%" vertical-align="bottom">
-                <mj-text align="left" color="#ffffff" line-height="46px"
+                <mj-text align="center" color="#ffffff" line-height="46px"
                          font-family="Book antiqua, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
                          font-size="36px" font-weight="600" padding="40px 20px 40px 20px">
             Ох, и что Вы теряете, откладывая курс!
@@ -28,11 +28,12 @@
                     <p class="paragraph">
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
-                    <p class="paragraph">
+                    <p class="paragraph center">
                         В нашем осеннем расписании:
                     </p>
-                    <p class="paragraph">
-                        стартовал курс - по Банкротству (ссылка или нет?!), на которых коллеги уже вовсю обсуждают злободневные вопросы, чтобы держать нос по ветру и не остаться с носом;
+                    <p class="paragraph center">
+                    стартовал курс - <b>по Банкротству</b>, на которых коллеги уже вовсю обсуждают злободневные вопросы, чтобы держать нос по ветру и не остаться с носом; <br/>
+                    а уже через несколько дней начнется курс по  Субсидиарной ответственности, 
                     </p>
                     <p class="paragraph" style="text-align: center;">
                     обратите внимание:
@@ -46,7 +47,7 @@
             <mj-column width="100%">
                 <mj-text align="center">
                     <p class="paragraph center">
-                    внизу страницы с описанием этих (иконка с указательным пальцем) курсов,
+                    внизу страницы с описанием этих ☝️ курсов,
                     есть <b>бесплатные материалы</b>!
                     </p>
                 </mj-text>
@@ -58,7 +59,9 @@
     <mj-column>
         <mj-text align="center">
             <p class="paragraph center"> 
-            курсы на вторую половину сентября и октябрь - Субсидиарная ответственность КДЛ, Строительный подряд, Корпоративная ответственность директоров/участников,  Здания & помещения.
+            
+            курсы на вторую половину сентября и октябрь - <b> Строительный подряд, Корпоративная ответственность директоров/участников,  Здания & помещения,  и Legal & Business English for Corporate Lawyer</b>
+
             </p>
         </mj-text>
     </mj-column>
@@ -68,7 +71,7 @@
     <mj-column>
         <mj-text>
             <p class="paragraph">
-            Приобретая их впритык, а не заранее, Вы теряете то самое радостное чувство предвкушения, потому что также есть мнение, что:
+Приобретая их впритык, а не заранее, Вы теряете то самое радостное чувство предвкушения, потому что есть мнение, что:
             </p>
         </mj-text>
     </mj-column>
@@ -90,7 +93,7 @@
     <mj-section>
         <mj-column>
             <mj-text align="center">
-            <a class="button" href="#">
+            <a class="button" href="https://lextorium.com/courses/"  style="background-color: #9d2847; border-color: #9d2847">
                 Хочу праздник
             </a>
             </mj-text>
