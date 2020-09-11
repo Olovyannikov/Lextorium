@@ -25,15 +25,15 @@
         <mj-section mj-class="container" padding-top="20px" padding-left="0">
             <mj-column width="100%">
                 <mj-text align="center">
-                    <p class="paragraph">
+                    <p class="paragraph center">
                         <span style="text-transform: capitalize;">{{first_name|Коллега}}</span>, здравствуйте!
                     </p>
                     <p class="paragraph center">
                         В нашем осеннем расписании:
                     </p>
                     <p class="paragraph center">
-                    стартовал курс - <b>по Банкротству</b>, на которых коллеги уже вовсю обсуждают злободневные вопросы, чтобы держать нос по ветру и не остаться с носом; <br/>
-                    а уже через несколько дней начнется курс по  Субсидиарной ответственности, 
+                    стартовал курс - <b>по Банкротству</b>, на котором коллеги уже вовсю обсуждают злободневные вопросы, чтобы держать нос по ветру и не остаться с носом; <br/>
+                    а уже через несколько дней начнется курс по <b>Субсидиарной ответственности</b>, 
                     </p>
                     <p class="paragraph" style="text-align: center;">
                     обратите внимание:
@@ -76,15 +76,14 @@
         </mj-text>
     </mj-column>
 </mj-section>
+    <mj-spacer height="20px"></mj-spacer>
 <mj-section>
-    <mj-column>
+    <mj-column border-color="#000">
         <mj-text>
-            <p class="paragraph center">
-            учиться для пользы - необходимость
-            </p>
+            <p class="paragraph center" style="background-color: #ffdc44; border-radius: 20px; font-weight: bold;">
+            учиться для пользы - необходимость <br/>
 
-            <p class="paragraph center">
-            учиться для удовольствия -  праздник! 
+            учиться для удовольствия -  праздник! <br/><br/>
             </p>
         </mj-text>
     </mj-column>
@@ -105,7 +104,7 @@
                 <mj-text padding-left="0">
                     <p class="paragraph">
                         <i>
-                            Пройдите свой путь через тернии теории к звездам практики с Lextorium!
+Пройти свой путь через тернии теории к звездам практики с Lextorium!
                         </i>
                     </p>
                 </mj-text>
