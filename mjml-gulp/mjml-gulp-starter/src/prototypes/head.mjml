@@ -60,6 +60,10 @@
         margin: 0 auto;
         vertical-align: middle;
         }
+
+        .center {
+            text-align: center;
+        }
     </mj-style>
     <mj-style inline="inline">
         ul li { padding-bottom: 10px; padding-left: 0; margin: 0; list-style-image: url('https://funkyimg.com/i/33wVV.png'); list-style-position: outside; font-size: 16px; line-height: 24px; vertical-align: top; }  } a.white_link
