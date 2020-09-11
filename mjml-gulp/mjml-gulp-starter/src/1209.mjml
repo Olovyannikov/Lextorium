@@ -92,10 +92,11 @@
     <mj-section>
         <mj-column>
             <mj-text align="center">
-            <a class="button" href="https://lextorium.com/courses/"  style="background-color: #9d2847; border-color: #9d2847">
+            <a class="button" href="https://lextorium.com/courses/"  style="background-color: #9d2847; border-color: #9d2847; 
+        border-width:30px 90px 30px 90px;">
                 Хочу праздник
             </a>
-            </mj-text>
+            </mj-text> 
         </mj-column>
     </mj-section>
 
