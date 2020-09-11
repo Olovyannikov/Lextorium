@@ -4,9 +4,9 @@
         <mj-preview>Если знания - то Lextorium!</mj-preview>
         <mj-title>Доступ закроется через 14 дней</mj-title>
     </mj-head>
-    <mj-body width="600px" background-color="#f6f6f6">
+    <mj-body width="600px" background-color="#ffffff">
         <mj-include path="prototypes/header.mjml"/>
-        <mj-section width="600px" background-color="#f6f6f6"
+        <mj-section width="600px" background-color="#ffffff"
                     background-repeat="no-repeat"
                     background-size="cover">
             <mj-column width="100%" padding="50px">
@@ -68,21 +68,10 @@
 
 <mj-spacer height="20px"></mj-spacer>
 
-        <mj-section>
-            <mj-column> 
-                <mj-text align="center">
-                    <a href="https://lextorium.com/courses/" class="button">
-                    Узнать больше
-                    </a>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-
-        <mj-section>
+   <mj-section>
             <mj-column>
-                <mj-text>
-                <p class="paragraph">
-                    Или напишите нашим менеджерам nn@lextorium.ru или на whatsapp ⇒                </p>
+                <mj-text align="center">
+                <a class="button" href="https://lextorium.com/courses/">Посмотреть расписпание</a>
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -91,7 +80,7 @@
             <mj-column>
                 <mj-text>
                     <p class="paragraph">
-                        Напишите Нине, Вашему проводнику к мир юридических знаний: <br/>
+                        Остались вопросы? Задайте их нашим менеджерам: <br/>
                         <span style="padding-top: 10px; display: inline-block"><img src="https://funkyimg.com/i/36PUE.jpg"><a href="https://wa.me/79157559800/" class="link">+7 (915) 755-98-00 </a>
                         или
                         <span><img src="https://funkyimg.com/i/36PUF.jpg"><a href="tel:+79157559800" class="link">+7 (915) 755-98-00 </a>
@@ -100,43 +89,8 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-
-        <mj-section background-color="#f2f2f2">
-            <mj-column>
-                <mj-text font-weight="bold" padding-bottom="10px">
-                    <p class="paragraph" style="font-weight: bold;">
-                        Задайте вопрос по теме семинара вашему проводнику в мир юридических знаний
-                    </p>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-
-        <mj-section background-color="#f2f2f2">
-            <mj-column>
-                <mj-image padding-bottom="20px" src="https://funkyimg.com/i/2Rw5Y.jpg" width="150"/>
-            </mj-column>
-            <mj-column>
-                 <mj-text>
-                 <p class="paragraph">
-                    <span><img src="https://funkyimg.com/i/36PUE.jpg"> </span><a href="https://wa.me/79157559800/" class="link">+7 (915) 755-98-00</a>
-                </p>
-                <p class="paragraph">
-                    <span><img src="https://funkyimg.com/i/36PVB.jpg"> </span><a href="https://join.skype.com/invite/pfEtugwzqWVd" class="link">drive-9</a>
-                </p>
-                <p class="paragraph">
-                    <span><img src="https://funkyimg.com/i/36PUF.jpg"> </span><a href="tel:+79157559800" class="link">+7 (915) 755-98-00</a>
-                </p>
-                 </mj-text>
-            </mj-column>
-        </mj-section>
         <mj-spacer height="20px"></mj-spacer>
-        <mj-section>
-            <mj-column>
-                <mj-text align="center">
-                <a class="button" href="https://lextorium.com/courses/">Посмотреть расписпание</a>
-                </mj-text>
-            </mj-column>
-        </mj-section>
+     
 
         <mj-section mj-class="container" padding-left="0">
             <mj-column width="100%">
